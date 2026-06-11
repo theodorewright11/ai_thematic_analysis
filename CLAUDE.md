@@ -18,7 +18,16 @@ Rules for any Claude Code session working on this project.
 - If you changed computation logic, data flow, or pipeline structure: update `ARCHITECTURE.md`.
 - If you added, removed, or changed a research component or evaluation element: update `PRD.md`.
 - If there are instructions all Claude Code sessions should follow: update `CLAUDE.md`.
-- Make sure each of these `ARCHITECTURE.md`, `PRD.md`, and `CLAUDE.md` files are a reasonable length - long enough for needed details but not more than that.
+- If changes touch folder structure, naming conventions, or project setup: update `README.md`.
+- Make sure each of these `ARCHITECTURE.md`, `PRD.md`, `CLAUDE.md`, and `README.md` files are a reasonable length - long enough for needed details but not more than that.
+
+---
+
+## Git Workflow
+
+- **Never push without asking first.** Always confirm with the user before running `git push`.
+- **Commit messages must be detailed.** One-line summaries are not enough — explain *why* the change was made, what problem it solves, or what it enables.
+- Stage changes thoughtfully — avoid `git add .` unless the change is narrow and well-defined.
 
 ---
 
