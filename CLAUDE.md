@@ -6,6 +6,7 @@ Rules for any Claude Code session working on this project.
 
 ## Before You Start
 
+- Read `README.md` for folder structure and output naming conventions.
 - Read `PRD.md` to understand what the project is for.
 - Read `ARCHITECTURE.md` to understand how the system and project is built as well as what the code does.
 - If a task is ambiguous about where something goes or how it interacts with existing work — ask before implementing. THIS IS VERY IMPORTANT
