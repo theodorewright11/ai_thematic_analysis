@@ -1,0 +1,329 @@
+{
+    "themes": [
+        {
+            "reasoning": "Across many comments, participants frame ALS as a rapidly fatal disease that makes conventional regulatory and drug-development timelines morally and practically unacceptable. Commenters repeatedly contrast the short life expectancy after diagnosis with approval processes that take many years, arguing that the guidance fails to recognize the urgency of their situation. This is not simply a request for speed; it reflects the lived experience of facing imminent decline and death while treatments remain unavailable. Data items D1, D2, D3, D8, D10, D15, D18 and others all emphasize urgency as a defining feature of ALS that should reshape policy.",
+            "name": "Urgency driven by a terminal disease trajectory",
+            "definition": "The belief that ALS's rapid progression and fatal prognosis require fundamentally accelerated approaches to drug development, evaluation, and regulatory decision-making. The theme captures how patients and families experience time as a scarce resource and view standard timelines as incompatible with the realities of ALS.",
+            "justification": "This pattern recurs throughout the dataset and is central to how commenters evaluate FDA policy. The perceived mismatch between disease progression and regulatory pace underpins many other requests, including expanded access, innovative trials, and alternative endpoints.",
+            "quotes": [
+                {
+                    "text": "This disease demands urgency.",
+                    "source": "D4",
+                    "role": "core"
+                },
+                {
+                    "text": "Treat ALS with a sense of urgency as people suffering from this monster of a disease don't have the luxury of time on their side.",
+                    "source": "D2",
+                    "role": "core"
+                },
+                {
+                    "text": "TIME is what the ALS patients don't have.",
+                    "source": "D3",
+                    "role": "core"
+                },
+                {
+                    "text": "ALS patients can't wait for the FDA to approve a medicine or treatment.  We need it now.",
+                    "source": "D8",
+                    "role": "supporting"
+                },
+                {
+                    "text": "The average 12-15 years it takes to get a drug through the process won't help the majority of those living with ALS.",
+                    "source": "D15",
+                    "role": "supporting"
+                }
+            ]
+        },
+        {
+            "reasoning": "A dominant pattern is the demand for access to investigational or promising therapies before full approval. Commenters frequently argue that once safety has been demonstrated, patients should be able to choose whether to accept the risks. Many explicitly invoke informed consent, liability waivers, or personal autonomy. The theme is rooted in the perception that patients already face certain death, making the risks of experimental treatment acceptable. This appears in D3, D5, D8, D9, D12, D14, D16, and D17.",
+            "name": "Right to assume risk for experimental treatments",
+            "definition": "The view that people with ALS should be allowed to access promising investigational therapies early and make their own risk-benefit decisions, particularly after basic safety has been established. The theme emphasizes patient autonomy in the context of terminal illness.",
+            "justification": "The pattern appears across numerous comments and reflects a coherent perspective on regulatory ethics. Commenters repeatedly argue that the certainty of disease progression outweighs the potential risks of unproven therapies.",
+            "quotes": [
+                {
+                    "text": "PLEASE HELP making the drugs available and let the diseased patients try the drugs NOW.",
+                    "source": "D3",
+                    "role": "core"
+                },
+                {
+                    "text": "Do not prevent access to treatments that have been proven safe and show promise, but are stuck in a long approval process.",
+                    "source": "D5",
+                    "role": "core"
+                },
+                {
+                    "text": "When a new drug passes your Phase 1 safety and tolerability studies, why can't ALS patients be allowed to start taking this possibly lifesaving drug?",
+                    "source": "D8",
+                    "role": "core"
+                },
+                {
+                    "text": "We must persevere to let our loved ones choose and endure at their own risk any and all types of treatments.",
+                    "source": "D14",
+                    "role": "supporting"
+                },
+                {
+                    "text": "They need to be given the option to take the drug, (and to thereby contribute to the body of research on its effectiveness) at the earliest possible date",
+                    "source": "D16",
+                    "role": "supporting"
+                }
+            ]
+        },
+        {
+            "reasoning": "Many comments criticize traditional ALS trial methodologies as outdated, inadequate, or poorly suited to the disease. Participants advocate historical controls, futility designs, crossover approaches, predictive algorithms, data enrichment, and other innovative methods. The criticism is broader than any single design feature; commenters perceive current approaches as stagnant and incapable of delivering therapies quickly enough. This appears strongly in D1, D4, D6, D7, D13, D17, and D18.",
+            "name": "Demand for innovative and disease-specific trial design",
+            "definition": "Calls for clinical trial methodologies that are tailored to ALS, reflect scientific advances, and move beyond traditional approaches perceived as inefficient or unsuitable for a rapidly progressive disease.",
+            "justification": "The theme recurs across the dataset and directly relates to participants' assessments of FDA guidance. Innovation is framed as both a scientific necessity and an ethical imperative in ALS drug development.",
+            "quotes": [
+                {
+                    "text": "Industry must be pushed to embrace update clinical trial design",
+                    "source": "D1",
+                    "role": "core"
+                },
+                {
+                    "text": "The FDA must encourage innovative clinical trial designs tailored to the population living with the disease and reflective of the heterogeneous nature of its presentation.",
+                    "source": "D4",
+                    "role": "core"
+                },
+                {
+                    "text": "Where is the innovation in clinical trial design?",
+                    "source": "D7",
+                    "role": "core"
+                },
+                {
+                    "text": "Innovative trial designs SHOULD be the norm!",
+                    "source": "D13",
+                    "role": "core"
+                },
+                {
+                    "text": "this guidance actually DISCOURAGES THEM.",
+                    "source": "D18",
+                    "role": "supporting"
+                }
+            ]
+        },
+        {
+            "reasoning": "A substantial number of commenters object specifically to placebo-controlled trials in ALS. Their objections are ethical rather than purely methodological: when patients face a fatal disease and have few options, being assigned placebo is viewed as denying hope or treatment opportunity. Several comments advocate replacing placebos with historical controls or crossover designs. This pattern appears in D3, D4, D5, D13, D14, D16, D18, and D20.",
+            "name": "Ethical opposition to placebo-controlled trials",
+            "definition": "The belief that assigning ALS patients to placebo groups is ethically inappropriate because participants face a terminal illness, limited treatment options, and limited time. Alternatives such as historical controls are preferred.",
+            "justification": "The pattern is repeated across many submissions and is presented as a distinct ethical concern. Commenters consistently connect placebo use with lost opportunities for treatment and unnecessary suffering.",
+            "quotes": [
+                {
+                    "text": "why use placebos in trials",
+                    "source": "D3",
+                    "role": "core"
+                },
+                {
+                    "text": "Use historical controls from the PROACT data base vs. placebos.",
+                    "source": "D4",
+                    "role": "core"
+                },
+                {
+                    "text": "Eliminate placebos in ALS clinical trials and use historical controls instead.",
+                    "source": "D5",
+                    "role": "core"
+                },
+                {
+                    "text": "Placebo control trials SHOULD NOT be allowed!",
+                    "source": "D13",
+                    "role": "core"
+                },
+                {
+                    "text": "Also, if I'm going to risk trying a trial, I want the drug NOT a placebo!",
+                    "source": "D20",
+                    "role": "supporting"
+                }
+            ]
+        },
+        {
+            "reasoning": "Commenters repeatedly describe existing eligibility criteria as too restrictive and unrepresentative of the ALS population. They argue that narrow enrollment excludes many patients, fails to account for disease heterogeneity, and may undermine discovery. Suggestions include broadening criteria and including slow-progressing patients. This theme is visible in D2, D4, D11, D15, D18, and D20.",
+            "name": "Broader and more inclusive trial participation",
+            "definition": "Calls to expand clinical trial eligibility and participation so that trials better reflect the diversity of people living with ALS, including different progression rates and circumstances.",
+            "justification": "The pattern appears across multiple submissions and reflects concerns about both fairness and scientific validity. Inclusion is presented as necessary for access and for generating meaningful evidence.",
+            "quotes": [
+                {
+                    "text": "Widen the inclusion criteria to allow more people with ALS into the clinical trials as they currently are very narrow",
+                    "source": "D2",
+                    "role": "core"
+                },
+                {
+                    "text": "Widen participant eligibility criteria.",
+                    "source": "D4",
+                    "role": "core"
+                },
+                {
+                    "text": "Widen the criteria and expand access into clinical trials.",
+                    "source": "D11",
+                    "role": "core"
+                },
+                {
+                    "text": "Studies only involving new cases of ALS dx is ignorant to those of us that are slow progressing.",
+                    "source": "D20",
+                    "role": "core"
+                },
+                {
+                    "text": "The current guidelines are too rigid and only 13% of ALS patients qualify for them.",
+                    "source": "D11",
+                    "role": "supporting"
+                }
+            ]
+        },
+        {
+            "reasoning": "Many participants highlight practical barriers that prevent participation in trials. They advocate mobile trial sites, satellite clinics, remote monitoring, video conferencing, and mobile-device data collection. These comments reflect awareness that physical disability, travel burdens, family responsibilities, and disease progression make conventional site-based trials inaccessible. This theme appears in D1, D2, D4, D11, D15, and D20.",
+            "name": "Accessibility through decentralized and technology-enabled trials",
+            "definition": "The view that ALS trials should use technology, remote data collection, and decentralized participation models to reduce burdens on patients and families and increase enrollment.",
+            "justification": "This pattern recurs across several comments and connects scientific efficiency with the lived realities of disability. Participants see modern technology as underused and capable of making trials more inclusive.",
+            "quotes": [
+                {
+                    "text": "Having real-time data collected via mobile devices can expedite the analysis of results",
+                    "source": "D2",
+                    "role": "core"
+                },
+                {
+                    "text": "Push for mobile travel sites in to allow a larger number of participants.",
+                    "source": "D4",
+                    "role": "core"
+                },
+                {
+                    "text": "Push for remote data collection to make it easier on families to participate.",
+                    "source": "D4",
+                    "role": "core"
+                },
+                {
+                    "text": "In this age of technology why are we not collecting data remotely?",
+                    "source": "D15",
+                    "role": "supporting"
+                },
+                {
+                    "text": "Consider having satellite trial locations where there is cluster cases of ALS diagnosis.",
+                    "source": "D20",
+                    "role": "supporting"
+                }
+            ]
+        },
+        {
+            "reasoning": "A recurring concern is that ALS is heterogeneous and cannot be adequately addressed through uniform regulatory or clinical approaches. Commenters argue that there is no 'average patient,' that progression varies, and that trial design should account for biological and genetic differences. This rationale often supports calls for innovative designs and broader eligibility. Evidence comes from D4, D6, D18, D19, and D20.",
+            "name": "Recognition of ALS heterogeneity",
+            "definition": "The understanding that ALS varies substantially across individuals and that drug development policies should account for differences in progression, biology, genetics, and treatment response.",
+            "justification": "The theme appears across comments discussing eligibility, endpoints, and trial design. It captures how community members view the disease itself as requiring more personalized and flexible approaches.",
+            "quotes": [
+                {
+                    "text": "reflective of the heterogeneous nature of its presentation.",
+                    "source": "D4",
+                    "role": "core"
+                },
+                {
+                    "text": "There is no average patient in ALS and everybody's biology is different.",
+                    "source": "D6",
+                    "role": "core"
+                },
+                {
+                    "text": "ALS is non-homogenous and therefore urgently requires newer, innovative trial designs",
+                    "source": "D18",
+                    "role": "core"
+                },
+                {
+                    "text": "properly select patients for trials based on genetic variants of the disease",
+                    "source": "D19",
+                    "role": "supporting"
+                }
+            ]
+        },
+        {
+            "reasoning": "Several comments argue that success in ALS treatment should not be measured solely by survival or cure. Participants emphasize disease modification, functional preservation, and improvements in quality of life as meaningful outcomes. They advocate alternative endpoints such as respiratory function or ALSFRS scores and recognize value in slowing progression. This appears in D4, D13, D15, D18, and D19.",
+            "name": "Valuing meaningful functional outcomes beyond survival",
+            "definition": "The perspective that preserving function, slowing progression, and improving quality of life are important treatment goals and should be recognized in trial endpoints and regulatory decisions.",
+            "justification": "The pattern recurs across multiple comments and reflects a distinct understanding of therapeutic benefit in ALS. It broadens the definition of success beyond cure or survival.",
+            "quotes": [
+                {
+                    "text": "Choose an endpoint other than death... a predesignated drop in FVC or specific point loss of ALSFRS.",
+                    "source": "D4",
+                    "role": "core"
+                },
+                {
+                    "text": "Death SHOULD NOT be the primary endpoint!",
+                    "source": "D13",
+                    "role": "core"
+                },
+                {
+                    "text": "slowing the progression of the disease is huge.",
+                    "source": "D15",
+                    "role": "core"
+                },
+                {
+                    "text": "Respect should be given to therapies which are not only curative, but which have the lesser but admirable of being disease modifying for ALS",
+                    "source": "D19",
+                    "role": "supporting"
+                },
+                {
+                    "text": "ALSFRS-R, FVC, and SVC should be used as an endpoint - rather than survival.",
+                    "source": "D18",
+                    "role": "supporting"
+                }
+            ]
+        },
+        {
+            "reasoning": "Beyond policy proposals, many comments contain vivid accounts of witnessing decline, anticipating death, and experiencing emotional suffering. Family members and patients describe watching loved ones lose abilities, confronting mortality, and feeling helpless. These narratives provide the experiential foundation for their policy demands. Examples appear in D7, D8, D10, D11, D13, and D14.",
+            "name": "Emotional burden of witnessing progressive decline",
+            "definition": "Expressions of grief, fear, helplessness, and suffering associated with ALS's relentless progression, both for patients and for families who watch loved ones deteriorate.",
+            "justification": "Although often embedded within policy arguments, these narratives recur across the dataset and reveal the lived experiences motivating demands for change. They provide crucial context for understanding community perspectives.",
+            "quotes": [
+                {
+                    "text": "Watching your grandson fade away from before your eyes is unbearable",
+                    "source": "D7",
+                    "role": "core"
+                },
+                {
+                    "text": "to see him lose his physical abilities little by little before complete paralysis and death was terrifying and torturous to his family and friends.",
+                    "source": "D11",
+                    "role": "core"
+                },
+                {
+                    "text": "I have to look at my mom everyday and say that there is no cure and there is nothing we can do.",
+                    "source": "D10",
+                    "role": "core"
+                },
+                {
+                    "text": "you will be loosing your ability to walk, talk, give your loved one a kiss or a hug, feed yourself, go to the bathroom only with assistance, breath, or drive a car",
+                    "source": "D13",
+                    "role": "supporting"
+                },
+                {
+                    "text": "The emotional,spiritual and financial hardship of watching a loved one demise is far greater a cost than allowing progressive ALS treatments!",
+                    "source": "D14",
+                    "role": "supporting"
+                }
+            ]
+        },
+        {
+            "reasoning": "Multiple commenters argue that people living with ALS possess expertise that is not being adequately incorporated into regulatory decision-making. They criticize the guidance as failing to represent patient perspectives, urge the FDA to listen to affected individuals, and challenge the authority of distant experts. The theme is about recognition and participation, not merely consultation. It appears in D4, D7, D15, D17, D18, and D19.",
+            "name": "Patient community as an essential source of expertise",
+            "definition": "The belief that ALS patients and families should play a central role in shaping drug development policy because they understand the disease's risks, priorities, and urgency better than external experts alone.",
+            "justification": "The pattern recurs in comments that explicitly discuss whose voices should guide policy. It reflects a broader demand for patient-centered regulation and shared authority in decision-making.",
+            "quotes": [
+                {
+                    "text": "Consider taking guidance from people living with this disease.",
+                    "source": "D4",
+                    "role": "core"
+                },
+                {
+                    "text": "I hope the FDA will take a long hard look at the comments by the people who are actually living with the realities of this disease",
+                    "source": "D7",
+                    "role": "core"
+                },
+                {
+                    "text": "Listen to the population that is living with this disease on a daily basis rather than just relying on the "experts"",
+                    "source": "D15",
+                    "role": "core"
+                },
+                {
+                    "text": "please listen to the experts and allow them to participate in an forward thinking ALS Guidance Drug Development document as they know what they want and what risks they are willing to take.",
+                    "source": "D17",
+                    "role": "supporting"
+                },
+                {
+                    "text": "This guidance is NOT a representation of the patient community.",
+                    "source": "D18",
+                    "role": "supporting"
+                }
+            ]
+        }
+    ]
+}
