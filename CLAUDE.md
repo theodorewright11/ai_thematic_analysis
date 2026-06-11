@@ -25,9 +25,9 @@ Rules for any Claude Code session working on this project.
 
 ## Git Workflow
 
-- **Never push without asking first.** Always confirm with the user before running `git push`.
-- **Commit messages must be detailed.** One-line summaries are not enough — explain *why* the change was made, what problem it solves, or what it enables.
-- Stage changes thoughtfully — avoid `git add .` unless the change is narrow and well-defined.
+- Never push without asking first. Always confirm with the user before running `git push`.
+- Commit messages must be detailed. One-line summaries are not enough — explain *why* the change was made, what problem it solves, or what it enables.
+- Stage changes thoughtfully based on what was changed 
 
 ---
 
