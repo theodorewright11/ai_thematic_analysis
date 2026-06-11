@@ -25,9 +25,25 @@ Rules for any Claude Code session working on this project.
 
 ## Git Workflow
 
-- Never push without asking first. Always confirm with the user before running `git push`.
+- Never commit OR push without asking first. Always confirm with the user before doing so.
 - Commit messages must be detailed. One-line summaries are not enough — explain *why* the change was made, what problem it solves, or what it enables.
 - Stage changes thoughtfully based on what was changed 
+
+---
+
+## Prompt Development Workflow
+
+When a prompt is edited and ready to be logged as a new version:
+
+1. **Rename the prompt file**: `engineered_v1.md` → `engineered_v2.md` (increment version)
+2. **Update PROMPTS_LOG.md**:
+   - Copy the new version into the log under a new `### Version X` header
+   - Bold the changed sections
+   - Add the rationale (why the changes were made)
+   - Use the template at the bottom of PROMPTS_LOG.md to stay consistent
+3. **Commit both files** with a detailed message explaining what changed
+
+This keeps outputs and prompts in sync (outputs reference the correct prompt version) and produces a paper-ready supplemental log.
 
 ---
 

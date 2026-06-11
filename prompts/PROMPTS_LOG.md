@@ -98,3 +98,20 @@ Output ONLY the JSON object and its fields - include nothing else.
 ## Nodata Variant
 
 (To be added)
+
+---
+
+## Template for New Version
+
+Copy this template when adding a new version to PROMPTS_LOG.md:
+
+```markdown
+### Version X
+
+[Full prompt text here with **changed sections bolded**]
+
+**Rationale for Version X:**
+- [Reason 1]
+- [Reason 2]
+- [Reason 3]
+```

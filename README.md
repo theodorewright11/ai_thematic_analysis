@@ -45,18 +45,7 @@ Examples:
 - `nodata_v1.md`
 
 ### Prompt Development Log
-`prompts/PROMPTS_LOG.md` documents the evolution of each prompt variant:
-- Full text of each version
-- Changes highlighted (bolded)
-- Rationale for each iteration
-
-This file is paper-ready for supplemental materials. When a prompt is edited:
-1. Copy current version to log (before changes)
-2. Edit the prompt file
-3. Add reasoning to log
-4. Commit both
-
-Git history shows exact diffs for reference.
+`prompts/PROMPTS_LOG.md` documents the evolution of each prompt variant with full text, changes highlighted, and rationale. Paper-ready for supplemental materials.
 
 ## Authors and Affiliations
 
