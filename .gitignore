@@ -44,6 +44,3 @@ Thumbs.db
 .env
 .env.local
 
-# Data and outputs (keep structure but ignore large files)
-data/*.csv
-outputs/**/*.json
