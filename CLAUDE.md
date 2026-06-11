@@ -20,6 +20,7 @@ Rules for any Claude Code session working on this project.
 - If there are instructions all Claude Code sessions should follow: update `CLAUDE.md`.
 - If changes touch folder structure, naming conventions, or project setup: update `README.md`.
 - Make sure each of these `ARCHITECTURE.md`, `PRD.md`, `CLAUDE.md`, and `README.md` files are a reasonable length - long enough for needed details but not more than that.
+- Make sure to match the styling for writing in all of these md files when you edit.
 
 ---
 
@@ -35,15 +36,11 @@ Rules for any Claude Code session working on this project.
 
 When a prompt is edited and ready to be logged as a new version:
 
-1. **Rename the prompt file**: `engineered_v1.md` → `engineered_v2.md` (increment version)
-2. **Update PROMPTS_LOG.md**:
+1. Rename the prompt file: `engineered_v1.md` → `engineered_v2.md` (increment version)
+2. Update PROMPTS_LOG.md:
    - Copy the new version into the log under a new `### Version X` header
    - Bold the changed sections
-   - Add the rationale (why the changes were made)
-   - Use the template at the bottom of PROMPTS_LOG.md to stay consistent
-3. **Commit both files** with a detailed message explaining what changed
-
-This keeps outputs and prompts in sync (outputs reference the correct prompt version) and produces a paper-ready supplemental log.
+   - Add the template rationale under the changed section for the user to fill in
 
 ---
 
