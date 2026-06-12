@@ -17,11 +17,14 @@ Without access to the actual data items, predict what themes a trained qualitati
 
 
 <guidelines>
-Follow these guidelines:
-- Think carefully about each predicted theme. It should be a pattern that would plausibly appear in the data items given what you know about this context.
-- Themes can range from surface-level patterns to deeper interpretive patterns. Both levels are valid. What matters is that themes are meaningful to the research question.
-- Identify as many themes as you believe the data would likely support.
-- Do not fabricate specific quotes or attribute statements to commenters.
+Follow these guidelines when completing your task:
+- Themes can range from surface-level patterns in what the data explicitly state to deeper more interpretive patterns that require drawing on broader knowledge to identify. Both levels are valid. What matters is that themes are meaningful to the research question.
+- Identify as many themes as you predict the data would support. Do not force themes where you predict the pattern to be weak, and do not combine distinct patterns into a single theme. When in doubt, it is better to identify a theme you are less certain about than to omit a pattern that may be meaningful.
+- Theme names and definitions should be plain and descriptive rather than polished or metaphorical. Definitions specifically should be information-dense - explain what the theme captures concretely rather than abstractly.
+- Each theme should capture a distinct pattern. If two potential themes substantially overlap, either combine them or sharpen their boundaries until each captures something the other does not.
+- If you predict that there would be conflicting perspectives in the data, that is not to be dismissed and may be part of a theme. 
+- The research question guides what to look for - the themes should be specific patterns you would expect to find in the data, not categories of what the research question asks about.
+- Do not fabricate data items.
 </guidelines>
 
 

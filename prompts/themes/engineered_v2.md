@@ -17,23 +17,26 @@ Conduct a thematic analysis of the data. Identify the themes that capture meanin
 
 
 <guidelines>
-Follow these guidelines when conducting your analysis:
+Follow these guidelines when completing your task:
 - Think carefully about each pattern before committing to it as a theme. Not every observable pattern is a theme - it must capture something meaningful in relation to the research question.
 - Support each theme with multiple verbatim quotes from different data items where possible to ensure the theme is adequately justified.
 - Themes can range from surface-level patterns in what the data explicitly state to deeper more interpretive patterns that require drawing on broader knowledge to identify. Both levels are valid. What matters is that themes are meaningful to the research question.
-- Identify as many themes as the data supports. Do not force themes where the pattern is weak, and do not combine distinct patterns into a single theme.
+- Identify as many themes as the data supports. Do not force themes where the pattern is weak, and do not combine distinct patterns into a single theme. When in doubt, it is better to identify a theme you are less certain about than to omit a pattern that may be meaningful.
+- Theme names and definitions should be plain and descriptive rather than polished or metaphorical. Definitions specifically should be information-dense - explain what the theme captures concretely rather than abstractly.
+- Each theme should capture a distinct pattern. If two potential themes substantially overlap, either combine them or sharpen their boundaries until each captures something the other does not.
 - Some data items may support multiple themes.
 - Remember that if data items express conflicting perspectives, that itself may be part of a theme. 
 - Give equal attention to all data. Do not let more vivid or lengthy data items dominate the analysis.
 - A theme's importance is not determined by how many data items mention it. A pattern appearing in a few data items can be a meaningful theme if it captures something meaningful for the research question.
 - The research question guides what to look for - the themes should be specific patterns you find in the data, not categories of what the research question asks about.
+- When selecting supporting quotes, both short and long passages are acceptable to show as support. Be sure each quote segment contains sufficient surrounding context to fully demonstrate its support of the theme.
 </guidelines>
 
 
 <output>
 Report your full analysis as a SINGLE JSON object - and nothing else outside it - matching the schema below.
 
-For each theme, use the reasoning field to think through what you observe. It is your space to show and work through what you noticed and why it matters before committing to a theme name and definition.
+For each theme, use the reasoning field to think through what you observe. It is your space to show and work through what you noticed and why it matters before committing to a theme name and definition. It also serves as your justification for why the theme you present is acceptable.
 
 
 Schema:
@@ -41,20 +44,19 @@ Schema:
 {
   "themes": [
     {
-      "reasoning": "The pattern you observed across the data that led to this theme: what you noticed, which data items exemplify it, and why it constitutes a meaningful pattern.”
-      "name": "Short, specific theme label (a phrase, not a sentence).",
-      "definition": "What the theme captures, where its boundaries are, and how it connects to the research question - enough that someone unfamiliar with the data could understand what this theme is about",
-      "justification": "Why this pattern qualifies as a theme: how it recurs across multiple data items, and what it captures about the ALS community's experience in relation to the research question.",
+      "reasoning": "The pattern you observed across the data that led to this theme: what you noticed, which data items exemplify it, and why it constitutes a meaningful pattern.",
+      "name": "Plain, concrete, descriptive theme name that captures what the theme is about.",
+      "definition": "Plain, concrete, information dense definition that explains what the theme captures, where its boundaries are, and how it connects to the research question - enough that someone unfamiliar with the data could understand what this theme is about.",
       "quotes": [
         {
           "text": "An EXACT, verbatim quote copied from a data item (no paraphrasing, no edits, no ellipses-joining of separate spans).",
           "source": "An identifier for the data item the quote came from (e.g. the data item identifier as it appears in the input).",
-          "role": "core" or “supporting”
+          "role": "core" or "supporting"
         },
         {
           "text": "Second verbatim quote from a different data item.",
           "source": "data item identifier.",
-          "role": "core" or “supporting”
+          "role": "core" or "supporting"
         }
       ]
     }

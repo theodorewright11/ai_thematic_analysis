@@ -34,13 +34,12 @@ Rules for any Claude Code session working on this project.
 
 ## Prompt Development Workflow
 
-When a prompt is edited and ready to be logged as a new version:
+The user edits a prompt and renames the file (`engineered_v1.md` → `engineered_v2.md`), then asks to log it. When asked:
 
-1. Rename the prompt file: `engineered_v1.md` → `engineered_v2.md` (increment version)
-2. Update PROMPTS_LOG.md:
-   - Copy the new version into the log under a new `### Version X` header
-   - Bold the changed sections
-   - Add the template rationale under the changed section for the user to fill in
+1. Add a new `### Version X` block to PROMPTS_LOG.md with the full new prompt text and the changed sections **bolded**. The user typically will not have the rationale yet — they use the bolded changes to write it.
+2. Later, when the user provides the rationale bullets, fill them into that version's block (they supply the *why* — do not invent it).
+
+Do not commit/push as part of this — the user reviews first, then approves committing per the Git Workflow rules. Prior versions are never lost: exact content stays in git history, and readable copies stay in PROMPTS_LOG.md.
 
 ---
 
