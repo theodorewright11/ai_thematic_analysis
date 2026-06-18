@@ -1,0 +1,345 @@
+{
+  "themes": [
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Urgency Due to the Rapidly Fatal Nature of ALS",
+      "definition": "Most common theme. Commenters repeatedly argue that ALS is a rapidly progressive, terminal disease and that regulatory processes do not adequately reflect this reality. Key ideas: ALS patients do not have time to wait for traditional drug development timelines. Current approval processes are viewed as incompatible with a disease where survival is often measured in months or a few years. The guidance document is criticized for lacking urgency. Representative comments: D1, D2, D3, D4, D6, D8, D9, D10, D13, D15, D17, D19.",
+      "quotes": [
+        {
+          "text": "Treat ALS with a sense of urgency.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "ALS patients don't have the luxury of time.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "We cannot be having the same conversations 50 years from now.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "The human cost is too great.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "Patients are already facing a fatal prognosis; therefore, many commenters believe the risk-benefit calculation should differ from that of non-terminal illnesses.",
+      "name": "Expanded Access to Experimental Treatments",
+      "definition": "One of the strongest and most frequent themes. Many commenters advocate allowing patients access to investigational therapies much earlier, especially after basic safety has been demonstrated. Key ideas: Access after Phase 1 safety studies. Expanded access/compassionate use. Allow patients to assume risk. Earlier treatment availability while efficacy data are still being collected. Representative comments: D3, D5, D7, D8, D9, D10, D12, D14, D16, D17, D18.",
+      "quotes": [
+        {
+          "text": "Give patients access now.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "We need it now.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Allow people to choose what they would like to access.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "The disease has already robbed them of the right to their health.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Opposition to Placebo-Controlled Trials",
+      "definition": "Extremely prominent theme. Many commenters view placebo use in ALS trials as unethical given the severity and fatality of the disease. Key ideas: Placebos deny potentially beneficial treatment. Historical controls should replace placebo arms. Cross-over designs preferred. Ethical concerns regarding withholding treatment. Representative comments: D3, D4, D5, D7, D13, D14, D16, D18, D20. Suggested alternatives: Historical controls, PRO-ACT database controls, Single-arm studies, Cross-over designs.",
+      "quotes": [
+        {
+          "text": "Placebo control trials should not be allowed.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Use historical controls instead.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "If I'm going to risk trying a trial, I want the drug, not a placebo.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Demand for Innovative Clinical Trial Designs",
+      "definition": "Core regulatory theme. Commenters consistently criticize conventional ALS trial designs as outdated. Key ideas: Traditional randomized controlled trials are seen as inefficient. Trial designs should reflect ALS biology and realities. Innovative methodologies should be encouraged rather than discouraged. Specific suggestions: Historical controls, Futility designs, Predictive algorithms, Data enrichment, Lead-in data, Single-arm trials, Adaptive designs, Cross-over studies. Representative comments: D1, D4, D6, D7, D13, D17, D18.",
+      "quotes": [
+        {
+          "text": "Innovative trial designs should be the norm.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "The trial design system is outdated.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "The guidance discourages innovation.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Broader Clinical Trial Eligibility",
+      "definition": "Frequently repeated operational concern. Many commenters argue that current eligibility criteria exclude too many ALS patients. Key ideas: Inclusion criteria are too restrictive. ALS heterogeneity is not adequately recognized. More patients should be allowed to participate. Representative comments: D2, D4, D11, D15, D20. Specific concerns: Only a small fraction of patients qualify. Slow-progressing patients are excluded. Narrow enrollment limits scientific learning.",
+      "quotes": [
+        {
+          "text": "Widen the inclusion criteria.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Only 13% of ALS patients qualify.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "ALL people living with ALS deserve a treatment.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Recognition of ALS Heterogeneity and Personalized Medicine",
+      "definition": "Many commenters reject a \"one-size-fits-all\" approach. Key ideas: ALS presents differently across patients. Genetic and biological differences matter. Trials should account for disease subtypes. Representative comments: D4, D6, D17, D18, D19, D20. Related concepts: Precision medicine, Genetic stratification, Slow versus rapid progression, Different treatment responses.",
+      "quotes": [
+        {
+          "text": "There is no average patient in ALS.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "ALS is non-homogenous.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Maybe the key is in slow-progressing patients.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Use of Technology and Remote Data Collection",
+      "definition": "A recurring practical recommendation. Key ideas: Use modern technology to improve participation and data collection. Reduce burden on patients and families. Accelerate data analysis. Representative comments: D1, D2, D4, D11, D15, D20. Suggested approaches: Mobile devices, Remote monitoring, Telemedicine, Real-time data collection, Video conferencing.",
+      "quotes": [
+        {
+          "text": "Use mobile devices.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Collect data remotely.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "We live in a world of great technology.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Decentralized, Mobile, and Satellite Trial Sites",
+      "definition": "Closely related to remote monitoring but distinct enough to stand alone. Key ideas: Travel is difficult for ALS patients. Trials should come to patients. Geographic access should improve. Representative comments: D1, D4, D11, D15, D20. Suggested solutions: Mobile trial units, Satellite clinics, Traveling research teams, Local physician participation.",
+      "quotes": [
+        {
+          "text": "Push for mobile travel sites.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Consider satellite trial locations.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Train local medical teams.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Alternative Endpoints Beyond Survival",
+      "definition": "Several commenters criticize mortality as the primary endpoint. Key ideas: Waiting for death-based outcomes slows development. Functional improvements matter. Quality of life improvements matter. Proposed endpoints: ALSFRS-R decline, FVC decline, SVC decline, Swallowing, Breathing, Mobility. Representative comments: D4, D13, D15, D18, D19.",
+      "quotes": [
+        {
+          "text": "Choose an endpoint other than death.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Disease modification should count.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Improvements in swallowing, breathing, digestion, or movement matter.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Patient Autonomy and Right to Choose Risk",
+      "definition": "A powerful ethical theme. Key ideas: Patients should decide whether potential benefits justify risks. Informed consent should be sufficient. Terminal illness changes acceptable risk thresholds. Representative comments: D3, D5, D9, D12, D14, D16, D17. Common proposals: Liability waivers, Informed consent agreements, Patient-physician decision-making.",
+      "quotes": [
+        {
+          "text": "Let patients make their own choice.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "The dying patient is willing to take the risk.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "At our own risk.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Criticism of FDA Processes and Regulatory Conservatism",
+      "definition": "Many comments directly criticize the FDA or the guidance document. Key ideas: Guidance is outdated. Regulatory processes are too slow. FDA is viewed as overly cautious. FDA is perceived as lagging behind science. Representative comments: D1, D6, D7, D8, D13, D15, D17, D18.",
+      "quotes": [
+        {
+          "text": "Outdated.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Archaic protocols.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "The guidance document is unacceptable.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Learning from Other Diseases (Especially HIV/AIDS)",
+      "definition": "Several commenters compare ALS to diseases where accelerated development pathways were adopted. Key ideas: HIV/AIDS activism changed regulatory policy. Similar urgency should apply to ALS. Ebola and cancer are also cited. Representative comments: D9, D17, D19.",
+      "quotes": [
+        {
+          "text": "The AIDS community demanded it.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Take risks like you did with AIDS and Ebola.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "We need a Moonshot for ALS.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Patient and Caregiver Voice Should Shape Policy",
+      "definition": "A recurring governance theme. Key ideas: People living with ALS have unique expertise. Guidance should reflect patient priorities. Commenters feel patient input has been ignored. Representative comments: D4, D7, D15, D17, D18.",
+      "quotes": [
+        {
+          "text": "Consider taking guidance from people living with this disease.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Listen to the experts",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "This guidance is not a representation of the patient community.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Hope, Compassion, and Human Suffering",
+      "definition": "A strong emotional theme running throughout the dataset. Key ideas: Witnessing decline is devastating. Families experience profound emotional burden. Current systems are perceived as denying hope. Representative comments: D3, D5, D7, D10, D11, D13, D14, D16. Common experiences: Watching loved ones lose speech, mobility, swallowing, breathing. Missing family milestones. Feelings of helplessness.",
+      "quotes": [
+        {
+          "text": "Watching them struggle worse and worse.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Watching your grandson fade away.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Please give my sister the opportunity to try to live.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    },
+    {
+      "reasoning": "N/A - low-effort condition",
+      "name": "Frustration With Lack of Effective Treatments",
+      "definition": "Commenters repeatedly express disappointment that meaningful progress has not occurred. Key ideas: Few treatment options exist. Existing treatments are seen as minimally effective. Scientific advances have not translated into therapies. Representative comments: D1, D6, D8, D10, D15, D17.",
+      "quotes": [
+        {
+          "text": "There is still absolutely no real treatment.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "No viable treatment options.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        },
+        {
+          "text": "Not much has changed.",
+          "source": "N/A - low-effort condition",
+          "role": "N/A - low-effort condition"
+        }
+      ]
+    }
+  ],
+  "additional_text": "Thematic analysis of 20 public comments on FDA ALS drug development guidance. Comments came from ALS patients, caregivers, family members, and supporters, with highly consistent themes across the dataset. Five higher-level meta-themes were identified: (A) ALS requires exceptional regulatory treatment distinct from chronic/nonfatal conditions; (B) access should be prioritized over certainty, favoring earlier therapy availability with incomplete evidence; (C) trial modernization is urgently needed, replacing conventional models with innovative, adaptive, technology-enabled approaches; (D) patients should be central decision-makers capable of understanding and accepting risk; (E) the current system is viewed as ethically inadequate, with delay, placebo use, and limited access framed as moral failures. Theme prevalence ranged from Very High (urgency, expanded access, placebo opposition, innovative trial design) to High (broader eligibility, patient autonomy, FDA criticism, remote/mobile trials) to Moderate-High (alternative endpoints) to Moderate (heterogeneity/personalized medicine, patient voice, disease comparisons, emotional burden, lack of treatments). The dominant message is that patients and families want a regulatory framework prioritizing speed, access, innovation, flexibility, and patient choice over traditional evidentiary and trial-design conventions."
+}
