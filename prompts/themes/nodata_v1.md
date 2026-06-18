@@ -8,7 +8,7 @@ Members of the public - primarily ALS patients, their families, and caregivers -
 
 
 <research_question>
-What are the experiences, perspectives, and views of the ALS community as expressed in their public comments to the FDA regarding ALS drug development policy?
+What are the experiences and perspectives of the ALS community as expressed in their public comments to the FDA regarding ALS drug development policy?
 </research_question>
 
 
