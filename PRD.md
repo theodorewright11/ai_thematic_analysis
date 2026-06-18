@@ -25,27 +25,33 @@ The empirical context is public comments submitted to the FDA by the ALS patient
 
 ## Evaluation Framework
 
-### Per-Theme Ratings (5-point scales)
+Themes are rated by hand on 1–5 scales, then probed with embeddings. Some
+dimensions do not apply in every condition (e.g. grounding is meaningless with no
+data) — see `ARCHITECTURE.md`.
 
-**Grounding**: Is this theme accurately based in the data? Evaluates whether the theme reflects real patterns in the dataset, whether supporting evidence supports the claims, and whether interpretive bridges from data to theme are traceable and convincing.
+### Per-Theme Ratings (evaluative, 1–5)
 
-**RQ-Fit**: Does this theme serve the research question at the specificity and depth it demands? Evaluates whether the theme addresses what the RQ asks for at an appropriate level of analysis.
+**Grounding**: Does the theme accurately reflect patterns in the data — do the extracts demonstrate it, and are interpretive bridges from extract to theme traceable and convincing?
 
-### Per-Theme Descriptor (5-point scale)
+**RQ-Fit**: Does the theme advance the analysis at the specificity and depth the research question demands?
 
-**Interpretation Level**: How far beyond the surface text does this theme go? Documents the degree of inference involved. Descriptive, not evaluative — higher interpretation is not inherently better or worse.
+### Per-Theme Descriptors (1–5, not better/worse)
 
-### Computed Metrics
+**Interpretation Level**: How far beyond the surface text the theme goes.
 
-**Novelty**: Cosine similarity between each with-data theme and its nearest match in the no-data baseline output. Measures how much the dataset contributed versus model priors.
+**AI Prior Novelty**: Whether the theme's subject appears in the no-data baseline (model priors).
 
-**Prevalence**: Fraction of data items a theme touches, computed from quote assignments.
+**Analytical Novelty**: Whether domain familiarity alone would anticipate the theme without reading the data.
 
 ### Set-Level Assessments
 
+**Independence**: Pairwise **Theme Similarity** (1–5) rated by hand; pairs below threshold are left unrated and treated as implicitly independent. Overlapping themes are flagged for merging.
+
 **Coverage**: Count of themes passing a quality threshold.
 
-**Independence**: Pairwise cosine similarity between theme definitions. Overlapping themes flagged for merging. Applied as a filter during set construction.
+### Computed Metrics (embeddings — `text-embedding-3-large`)
+
+**Theme–RQ alignment**, a **grounding proxy** (theme/quote vs the comments it draws on; quote provenance vs corpus representativeness), **core-vs-supporting separation**, **interpretation level vs quote distance**, and **similarity validation** (does embedding cosine reproduce the human Theme Similarity ratings, so independence can scale). **Prevalence** (quote coverage of data items) is planned.
 
 ---
 

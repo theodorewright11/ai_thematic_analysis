@@ -1,0 +1,51 @@
+condition,theme,cos_namedef_rq,cos_nameonly_rq
+nodata,Urgency driven by the fatal progression of ALS,0.5797203096032564,0.48993693544127936
+nodata,Willingness to accept higher treatment risks,0.5423102587264043,0.28944820557229967
+nodata,Patient experience as essential evidence,0.6067809461849794,0.3949966844761049
+nodata,Meaningful outcomes extend beyond survival,0.46400516175525136,0.2811559676025661
+nodata,Support for flexible and innovative trial designs,0.5569612701645311,0.3645978828176237
+nodata,Clinical trial participation is burdensome and difficult,0.4807866104726244,0.3752252741297729
+nodata,Perception that current regulatory processes are too slow,0.5745540815684674,0.37341836253484006
+nodata,Support for earlier access to investigational therapies,0.5242815220012303,0.4332218256986518
+nodata,Recognition of ALS heterogeneity,0.6156628145600168,0.42711064096697876
+nodata,Hope tied to emerging scientific progress,0.4527925266335295,0.24507100208154156
+nodata,Caregiver burden and family impact,0.4950184861652408,0.26643810814082797
+nodata,Use of personal stories to humanize policy decisions,0.5938858909960345,0.3766122304463143
+nodata,Desire for meaningful patient involvement in policymaking,0.5646319780103458,0.4416924962015158
+nodata,Need for regulatory flexibility in the context of unmet medical need,0.476650573981703,0.426024607636068
+nodata,Concerns about how treatment benefit is measured,0.49133129564046435,0.31352657092221436
+nodata,Tension between rapid access and evidentiary certainty,0.36980224271985923,0.16990865240269543
+nodata,Concern that promising therapies face avoidable development obstacles,0.4808322359513781,0.4425134496144796
+nodata,Patients as informed partners in research and regulation,0.6271743465677994,0.4587043281481079
+nodata,Drug-development policy as a moral responsibility,0.5679762147499915,0.4508415285420293
+nodata,"Grief, loss, and witnessing disease progression",0.600443780972849,0.33218634643168443
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,0.678557574179621,0.4454497676763889
+loweffort,Expanded Access to Experimental Treatments,0.517130948161178,0.4083164198547376
+loweffort,Opposition to Placebo-Controlled Trials,0.5354198803329974,0.3527406375426433
+loweffort,Demand for Innovative Clinical Trial Designs,0.5679970391470591,0.35107062835202635
+loweffort,Broader Clinical Trial Eligibility,0.5175924776680225,0.300197569679684
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,0.5575604026725209,0.49529924648742124
+loweffort,Use of Technology and Remote Data Collection,0.341742212450546,0.18004532470877418
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",0.40205591963159243,0.2163341971834879
+loweffort,Alternative Endpoints Beyond Survival,0.5287104443255836,0.2842818045417827
+loweffort,Patient Autonomy and Right to Choose Risk,0.35537151592493577,0.26055845781892206
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,0.5129928742225899,0.4314156802835031
+loweffort,Learning from Other Diseases (Especially HIV/AIDS),0.5987724210416203,0.31907990129013325
+loweffort,Patient and Caregiver Voice Should Shape Policy,0.6484674751142351,0.4801971305267335
+loweffort,"Hope, Compassion, and Human Suffering",0.43837722685099445,0.20902036236663707
+loweffort,Frustration With Lack of Effective Treatments,0.4889144713619335,0.37804561650596014
+engineered,ALS progression is incompatible with conventional drug approval timelines,0.6310235973234809,0.527708724167114
+engineered,Patients should be allowed to choose early access to promising treatments,0.573758699512082,0.38303726415736034
+engineered,Clinical trial design should be modernized and tailored to ALS,0.5492946519572958,0.5007908575385194
+engineered,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,0.5181388113752379,0.32463245679875086
+engineered,Trials should be more inclusive and accessible to the ALS population,0.5585228786964301,0.5106279926645227
+engineered,The ALS community feels unheard and believes guidance fails to reflect lived experience,0.6745043806238794,0.6216192934604506
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,0.6941117566050987,0.6199216872682014
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,0.6189758260262587,0.5455233202786388
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,0.6079404492682107,0.5889970723160494
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,0.613213075192976,0.6166164376441745
+human,ANGER Subtheme: Appeal to emotion through anger,0.43444061286134067,0.17544267487053053
+human,PLEADING Subtheme: Appeal to emotion through pleading,0.5812152286871407,0.2090997896851274
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,0.6137752731504081,0.4155930011836035
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,0.6541993461205691,0.5170885463712623
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,0.5580020500292333,0.17701874392339031

@@ -1,0 +1,437 @@
+{
+  "project": "chatgpt5.5_nodata_v1_20_run1",
+  "exported_at": "2026-06-18T00:31:41.189Z",
+  "themes": [
+    {
+      "name": "Urgency driven by the fatal progression of ALS",
+      "parent": null,
+      "definition": "Comments emphasizing that ALS progresses faster than the regulatory and drug-development system typically moves. This theme captures appeals for accelerated action, descriptions of time as a scarce resource, and arguments that policy should reflect the reality that many patients will not live long enough to benefit from future evidence generation if access is delayed.",
+      "reasoning": "ALS is rapidly progressive and fatal, with a short median survival time. Patients and families engaging with the FDA are likely acutely aware that conventional drug development timelines may exceed the lifespan of many current patients. This creates a distinctive regulatory perspective in which uncertainty about efficacy may be viewed as more acceptable than delayed access. Public comments to FDA drug-development guidance frequently emphasize urgency when the disease burden is severe and treatment options are limited.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 1,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Tension between rapid access and evidentiary certainty",
+          "type": "related",
+          "similarity": 2
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Willingness to accept higher treatment risks",
+      "parent": null,
+      "definition": "Comments asserting that ALS patients should be allowed to take substantial risks with investigational therapies. The theme includes claims that regulators should weigh potential benefits differently in ALS, support patient autonomy in treatment decisions, and recognize that acceptable risk thresholds differ in terminal diseases.",
+      "reasoning": "Patient communities facing terminal illnesses often challenge conventional regulatory risk-benefit calculations. Individuals with ALS may argue that they are willing to accept greater uncertainty, adverse effects, or lower evidentiary standards because the alternative is continued disease progression and death.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 2,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Support for flexible and innovative trial designs",
+          "type": "subsumed-by",
+          "similarity": 3
+        },
+        {
+          "other": "Tension between rapid access and evidentiary certainty",
+          "type": "related",
+          "similarity": 2
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Patient experience as essential evidence",
+      "parent": null,
+      "definition": "Comments arguing that lived experience should inform drug-development policy, trial design, endpoint selection, and regulatory decisions. This includes calls to recognize patient and caregiver perspectives as legitimate forms of evidence alongside clinical and statistical data.",
+      "reasoning": "Patient advocacy organizations and rare-disease communities have increasingly promoted incorporation of patient experience into regulatory decision-making. ALS patients often possess direct experiential knowledge of disease progression and treatment priorities that they may feel is undervalued by traditional clinical and regulatory frameworks.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 3,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Desire for meaningful patient involvement in policymaking",
+          "type": "related",
+          "similarity": 4
+        },
+        {
+          "other": "Patients as informed partners in research and regulation",
+          "type": "related",
+          "similarity": 3
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Meaningful outcomes extend beyond survival",
+      "parent": null,
+      "definition": "Comments emphasizing that drug benefits should include maintaining function, communication, independence, quality of life, caregiver burden reduction, or slowing decline, rather than focusing exclusively on mortality or narrowly defined clinical measures.",
+      "reasoning": "Traditional clinical endpoints may not fully capture outcomes that matter to ALS patients. Because ALS affects communication, mobility, independence, swallowing, breathing, and social participation, commenters may advocate for broader conceptions of meaningful benefit.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 1,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 3,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Concerns about how treatment benefit is measured",
+          "type": "related",
+          "similarity": 4
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Support for flexible and innovative trial designs",
+      "parent": null,
+      "definition": "Comments encouraging adaptive trials, platform trials, use of historical controls, biomarker-informed approaches, decentralized participation, or other methods that may speed development while accommodating the realities of ALS research.",
+      "reasoning": "ALS clinical trials often face recruitment challenges, disease heterogeneity, and small patient populations. Stakeholders may advocate for innovative approaches that reduce burdens and accelerate evidence generation.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 1,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Willingness to accept higher treatment risks",
+          "type": "subsumes",
+          "similarity": 3
+        },
+        {
+          "other": "Support for earlier access to investigational therapies",
+          "type": "subsumes",
+          "similarity": 4
+        },
+        {
+          "other": "Need for regulatory flexibility in the context of unmet medical need",
+          "type": "subsumes",
+          "similarity": 3
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Clinical trial participation is burdensome and difficult",
+      "parent": null,
+      "definition": "Comments describing logistical, physical, financial, geographic, or caregiving challenges associated with participating in ALS research. The theme captures requests for more accessible, patient-centered trials.",
+      "reasoning": "People with ALS often experience physical limitations that make participation in research difficult. Caregivers also bear substantial burdens. Commenters may therefore focus on practical barriers to enrollment and retention.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 2,
+        "notes": null
+      },
+      "similarities": [],
+      "quotes": []
+    },
+    {
+      "name": "Perception that current regulatory processes are too slow",
+      "parent": null,
+      "definition": "Comments expressing frustration with existing approval pathways, review timelines, evidentiary requirements, or bureaucratic processes. This theme captures beliefs that the system is poorly matched to the realities of ALS.",
+      "reasoning": "Rare-disease and terminal-illness communities often criticize regulatory systems as being too slow or overly cautious. ALS advocates have historically pressed for regulatory flexibility and faster pathways.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 3,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 2,
+        "notes": null
+      },
+      "similarities": [],
+      "quotes": []
+    },
+    {
+      "name": "Support for earlier access to investigational therapies",
+      "parent": null,
+      "definition": "Comments advocating expanded access, compassionate use, conditional approval, accelerated approval, or other mechanisms that permit patients to obtain promising therapies before completion of traditional development programs.",
+      "reasoning": "Patients frequently seek access to investigational treatments before definitive evidence is available. ALS advocacy has often included support for expanded access and similar mechanisms.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 3,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Support for flexible and innovative trial designs",
+          "type": "subsumed-by",
+          "similarity": 4
+        },
+        {
+          "other": "Tension between rapid access and evidentiary certainty",
+          "type": "related",
+          "similarity": 3
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Recognition of ALS heterogeneity",
+      "parent": null,
+      "definition": "Comments emphasizing that ALS is not experienced uniformly and that drug-development policies should accommodate differences in disease subtype, progression, genetics, and individual treatment response.",
+      "reasoning": "ALS is biologically heterogeneous, with variable progression rates, symptom patterns, and potential disease mechanisms. Stakeholders may recognize that a single development strategy may not fit all patients.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 1,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 1,
+        "notes": null
+      },
+      "similarities": [],
+      "quotes": []
+    },
+    {
+      "name": "Hope tied to emerging scientific progress",
+      "parent": null,
+      "definition": "Comments expressing optimism about new therapeutic approaches, biomarkers, genetic discoveries, or research advances, often accompanied by requests that policy facilitate translation of these advances into treatments.",
+      "reasoning": "Many patients and families follow emerging ALS research closely. They may express hope that scientific advances are creating real opportunities while simultaneously recognizing uncertainty.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 3,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 4,
+        "notes": null
+      },
+      "similarities": [],
+      "quotes": []
+    },
+    {
+      "name": "Caregiver burden and family impact",
+      "parent": null,
+      "definition": "Comments describing the emotional, physical, financial, and practical effects of ALS on caregivers and family members. The theme captures arguments that policy decisions affect entire family systems, not only patients.",
+      "reasoning": "Caregivers play a central role in ALS management and often participate in advocacy efforts. Their experiences may be reflected in comments that describe the broader impact of the disease.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 1,
+        "notes": null
+      },
+      "similarities": [],
+      "quotes": []
+    },
+    {
+      "name": "Use of personal stories to humanize policy decisions",
+      "parent": null,
+      "definition": "Comments recounting diagnosis, progression, caregiving experiences, treatment journeys, or losses in order to illustrate the stakes of drug-development policy and make abstract regulatory decisions concrete.",
+      "reasoning": "Personal narratives are commonly used in public comments to regulators. Individuals often deploy stories as evidence, moral appeals, and illustrations of policy consequences.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 4,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 3,
+        "notes": null
+      },
+      "similarities": [],
+      "quotes": []
+    },
+    {
+      "name": "Desire for meaningful patient involvement in policymaking",
+      "parent": null,
+      "definition": "Comments requesting sustained participation of patients and caregivers in guidance development, advisory processes, endpoint selection, trial design, and regulatory decision-making.",
+      "reasoning": "ALS advocacy communities often seek partnership rather than passive consultation. Commenters may call for ongoing engagement between regulators and affected communities.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 1,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Patient experience as essential evidence",
+          "type": "related",
+          "similarity": 4
+        },
+        {
+          "other": "Patients as informed partners in research and regulation",
+          "type": "related",
+          "similarity": 3
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Need for regulatory flexibility in the context of unmet medical need",
+      "parent": null,
+      "definition": "Comments arguing that severe unmet need should justify greater flexibility in evidence requirements, approval standards, or development pathways than would be appropriate for less serious conditions.",
+      "reasoning": "Because ALS has few approved therapies, patients often perceive an imbalance between the severity of the disease and the availability of treatment options. This may motivate calls for a different evidentiary framework.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 4,
+        "interpretationLevel": 3,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 1,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Support for flexible and innovative trial designs",
+          "type": "subsumed-by",
+          "similarity": 3
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Concerns about how treatment benefit is measured",
+      "parent": null,
+      "definition": "Comments questioning existing endpoints, scales, biomarkers, or outcome measures and advocating assessment approaches that better reflect real-world patient experiences and priorities.",
+      "reasoning": "Patients with progressive diseases often report that available clinical measures fail to capture subtle but meaningful changes. ALS stakeholders may advocate for better measurement tools.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 2,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Meaningful outcomes extend beyond survival",
+          "type": "related",
+          "similarity": 4
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Tension between rapid access and evidentiary certainty",
+      "parent": null,
+      "definition": "Comments reflecting competing priorities regarding speed versus proof. The theme captures both explicit disagreements and nuanced attempts to balance urgent patient need with reliable evidence generation.",
+      "reasoning": "The ALS community contains diverse perspectives. Some commenters may prioritize rapid access, while others may emphasize the importance of maintaining scientific rigor to avoid ineffective or harmful treatments.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 3,
+        "interpretationLevel": 3,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 3,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Urgency driven by the fatal progression of ALS",
+          "type": "related",
+          "similarity": 2
+        },
+        {
+          "other": "Willingness to accept higher treatment risks",
+          "type": "related",
+          "similarity": 2
+        },
+        {
+          "other": "Support for earlier access to investigational therapies",
+          "type": "related",
+          "similarity": 3
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Concern that promising therapies face avoidable development obstacles",
+      "parent": null,
+      "definition": "Comments describing scientific, financial, regulatory, or operational barriers that may prevent potentially beneficial treatments from reaching patients. The theme focuses on systemic impediments rather than individual drugs.",
+      "reasoning": "ALS advocacy has historically included concerns that promising therapies can be abandoned because traditional development models are difficult in small populations. Stakeholders may worry about structural barriers to innovation.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 3,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 2,
+        "notes": null
+      },
+      "similarities": [],
+      "quotes": []
+    },
+    {
+      "name": "Patients as informed partners in research and regulation",
+      "parent": null,
+      "definition": "Comments portraying ALS patients and caregivers as capable of understanding evidence, evaluating uncertainty, and contributing meaningfully to scientific and regulatory discussions.",
+      "reasoning": "People affected by ALS often become highly knowledgeable about research due to the seriousness of the condition. They may challenge assumptions that patients cannot understand uncertainty or scientific complexity.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 3,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 4,
+        "notes": null
+      },
+      "similarities": [
+        {
+          "other": "Patient experience as essential evidence",
+          "type": "related",
+          "similarity": 3
+        },
+        {
+          "other": "Desire for meaningful patient involvement in policymaking",
+          "type": "related",
+          "similarity": 3
+        }
+      ],
+      "quotes": []
+    },
+    {
+      "name": "Drug-development policy as a moral responsibility",
+      "parent": null,
+      "definition": "Comments framing FDA actions and regulatory standards as ethical obligations to people facing a fatal disease. This theme captures appeals to compassion, justice, fairness, and societal responsibility.",
+      "reasoning": "Regulatory decisions may be viewed not merely as technical judgments but as ethical choices affecting life opportunities. In terminal illness contexts, commenters often frame policy in moral terms.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 4,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 3,
+        "notes": null
+      },
+      "similarities": [],
+      "quotes": []
+    },
+    {
+      "name": "Grief, loss, and witnessing disease progression",
+      "parent": null,
+      "definition": "Comments describing deaths, anticipated losses, rapid decline, and the emotional consequences of ALS. The theme captures how experiences of loss shape views about drug-development policy and regulatory urgency.",
+      "reasoning": "Many individuals in ALS communities have experienced loss directly. Public comments may communicate grief while also using it to justify policy change.",
+      "ratings": {
+        "grounding": null,
+        "researchQuestionFit": 5,
+        "interpretationLevel": 2,
+        "aiPriorNovelty": null,
+        "analyticalNovelty": 2,
+        "notes": null
+      },
+      "similarities": [],
+      "quotes": []
+    }
+  ]
+}

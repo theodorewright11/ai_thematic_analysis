@@ -1,0 +1,347 @@
+condition,theme_a,theme_b,cosine,human_similarity,rated
+nodata,Urgency driven by the fatal progression of ALS,Willingness to accept higher treatment risks,0.61166987321755,,False
+nodata,Urgency driven by the fatal progression of ALS,Patient experience as essential evidence,0.492392601763228,,False
+nodata,Urgency driven by the fatal progression of ALS,Meaningful outcomes extend beyond survival,0.46876729796785216,,False
+nodata,Urgency driven by the fatal progression of ALS,Support for flexible and innovative trial designs,0.5169012447672813,,False
+nodata,Urgency driven by the fatal progression of ALS,Clinical trial participation is burdensome and difficult,0.515100906660523,,False
+nodata,Urgency driven by the fatal progression of ALS,Perception that current regulatory processes are too slow,0.7165516296517338,,False
+nodata,Urgency driven by the fatal progression of ALS,Support for earlier access to investigational therapies,0.5686755471456183,,False
+nodata,Urgency driven by the fatal progression of ALS,Recognition of ALS heterogeneity,0.5739250139245018,,False
+nodata,Urgency driven by the fatal progression of ALS,Hope tied to emerging scientific progress,0.4768346135639154,,False
+nodata,Urgency driven by the fatal progression of ALS,Caregiver burden and family impact,0.505980886937631,,False
+nodata,Urgency driven by the fatal progression of ALS,Use of personal stories to humanize policy decisions,0.4962434716748751,,False
+nodata,Urgency driven by the fatal progression of ALS,Desire for meaningful patient involvement in policymaking,0.4781510316998798,,False
+nodata,Urgency driven by the fatal progression of ALS,Need for regulatory flexibility in the context of unmet medical need,0.5636879286250112,,False
+nodata,Urgency driven by the fatal progression of ALS,Concerns about how treatment benefit is measured,0.4370553753273874,,False
+nodata,Urgency driven by the fatal progression of ALS,Tension between rapid access and evidentiary certainty,0.5867760819347887,2.0,True
+nodata,Urgency driven by the fatal progression of ALS,Concern that promising therapies face avoidable development obstacles,0.5575031532000456,,False
+nodata,Urgency driven by the fatal progression of ALS,Patients as informed partners in research and regulation,0.5192115787391998,,False
+nodata,Urgency driven by the fatal progression of ALS,Drug-development policy as a moral responsibility,0.5891150038918319,,False
+nodata,Urgency driven by the fatal progression of ALS,"Grief, loss, and witnessing disease progression",0.6857570202398742,,False
+nodata,Willingness to accept higher treatment risks,Patient experience as essential evidence,0.5424019133556025,,False
+nodata,Willingness to accept higher treatment risks,Meaningful outcomes extend beyond survival,0.5000455968320342,,False
+nodata,Willingness to accept higher treatment risks,Support for flexible and innovative trial designs,0.5959253683969699,3.0,True
+nodata,Willingness to accept higher treatment risks,Clinical trial participation is burdensome and difficult,0.5478139848206284,,False
+nodata,Willingness to accept higher treatment risks,Perception that current regulatory processes are too slow,0.5644389262765108,,False
+nodata,Willingness to accept higher treatment risks,Support for earlier access to investigational therapies,0.5866107198658687,,False
+nodata,Willingness to accept higher treatment risks,Recognition of ALS heterogeneity,0.5927937674671704,,False
+nodata,Willingness to accept higher treatment risks,Hope tied to emerging scientific progress,0.46887104044325595,,False
+nodata,Willingness to accept higher treatment risks,Caregiver burden and family impact,0.44967343716853525,,False
+nodata,Willingness to accept higher treatment risks,Use of personal stories to humanize policy decisions,0.48319241967465554,,False
+nodata,Willingness to accept higher treatment risks,Desire for meaningful patient involvement in policymaking,0.5133758817416618,,False
+nodata,Willingness to accept higher treatment risks,Need for regulatory flexibility in the context of unmet medical need,0.5895677262886359,,False
+nodata,Willingness to accept higher treatment risks,Concerns about how treatment benefit is measured,0.5135819554075629,,False
+nodata,Willingness to accept higher treatment risks,Tension between rapid access and evidentiary certainty,0.4966825930473399,2.0,True
+nodata,Willingness to accept higher treatment risks,Concern that promising therapies face avoidable development obstacles,0.527588773179199,,False
+nodata,Willingness to accept higher treatment risks,Patients as informed partners in research and regulation,0.6726921609758552,,False
+nodata,Willingness to accept higher treatment risks,Drug-development policy as a moral responsibility,0.5967653734699429,,False
+nodata,Willingness to accept higher treatment risks,"Grief, loss, and witnessing disease progression",0.5687952706876874,,False
+nodata,Patient experience as essential evidence,Meaningful outcomes extend beyond survival,0.5895234245648934,,False
+nodata,Patient experience as essential evidence,Support for flexible and innovative trial designs,0.5417237091345636,,False
+nodata,Patient experience as essential evidence,Clinical trial participation is burdensome and difficult,0.4865854926280706,,False
+nodata,Patient experience as essential evidence,Perception that current regulatory processes are too slow,0.48651462872945817,,False
+nodata,Patient experience as essential evidence,Support for earlier access to investigational therapies,0.5657368454305547,,False
+nodata,Patient experience as essential evidence,Recognition of ALS heterogeneity,0.5278570368087271,,False
+nodata,Patient experience as essential evidence,Hope tied to emerging scientific progress,0.46568213016836374,,False
+nodata,Patient experience as essential evidence,Caregiver burden and family impact,0.42099763399929446,,False
+nodata,Patient experience as essential evidence,Use of personal stories to humanize policy decisions,0.6897424020730917,,False
+nodata,Patient experience as essential evidence,Desire for meaningful patient involvement in policymaking,0.7211820140989359,4.0,True
+nodata,Patient experience as essential evidence,Need for regulatory flexibility in the context of unmet medical need,0.5569115144211675,,False
+nodata,Patient experience as essential evidence,Concerns about how treatment benefit is measured,0.6496113795638868,,False
+nodata,Patient experience as essential evidence,Tension between rapid access and evidentiary certainty,0.5095733869479503,,False
+nodata,Patient experience as essential evidence,Concern that promising therapies face avoidable development obstacles,0.4967205189599176,,False
+nodata,Patient experience as essential evidence,Patients as informed partners in research and regulation,0.6880733965772315,3.0,True
+nodata,Patient experience as essential evidence,Drug-development policy as a moral responsibility,0.5617920648008157,,False
+nodata,Patient experience as essential evidence,"Grief, loss, and witnessing disease progression",0.5116668863787658,,False
+nodata,Meaningful outcomes extend beyond survival,Support for flexible and innovative trial designs,0.4577974167236423,,False
+nodata,Meaningful outcomes extend beyond survival,Clinical trial participation is burdensome and difficult,0.4249680564170291,,False
+nodata,Meaningful outcomes extend beyond survival,Perception that current regulatory processes are too slow,0.39286292698237074,,False
+nodata,Meaningful outcomes extend beyond survival,Support for earlier access to investigational therapies,0.4672201167239876,,False
+nodata,Meaningful outcomes extend beyond survival,Recognition of ALS heterogeneity,0.4881127184671646,,False
+nodata,Meaningful outcomes extend beyond survival,Hope tied to emerging scientific progress,0.45444300525011017,,False
+nodata,Meaningful outcomes extend beyond survival,Caregiver burden and family impact,0.4495268384140837,,False
+nodata,Meaningful outcomes extend beyond survival,Use of personal stories to humanize policy decisions,0.5164682562159224,,False
+nodata,Meaningful outcomes extend beyond survival,Desire for meaningful patient involvement in policymaking,0.5551578743701924,,False
+nodata,Meaningful outcomes extend beyond survival,Need for regulatory flexibility in the context of unmet medical need,0.4600950552689172,,False
+nodata,Meaningful outcomes extend beyond survival,Concerns about how treatment benefit is measured,0.6353264625928118,4.0,True
+nodata,Meaningful outcomes extend beyond survival,Tension between rapid access and evidentiary certainty,0.3905102429097851,,False
+nodata,Meaningful outcomes extend beyond survival,Concern that promising therapies face avoidable development obstacles,0.4847758079746716,,False
+nodata,Meaningful outcomes extend beyond survival,Patients as informed partners in research and regulation,0.4993402774818473,,False
+nodata,Meaningful outcomes extend beyond survival,Drug-development policy as a moral responsibility,0.5370083571457267,,False
+nodata,Meaningful outcomes extend beyond survival,"Grief, loss, and witnessing disease progression",0.5304801278985267,,False
+nodata,Support for flexible and innovative trial designs,Clinical trial participation is burdensome and difficult,0.5839638960197481,,False
+nodata,Support for flexible and innovative trial designs,Perception that current regulatory processes are too slow,0.5427586943712506,,False
+nodata,Support for flexible and innovative trial designs,Support for earlier access to investigational therapies,0.7073757918609332,4.0,True
+nodata,Support for flexible and innovative trial designs,Recognition of ALS heterogeneity,0.5985448089255359,,False
+nodata,Support for flexible and innovative trial designs,Hope tied to emerging scientific progress,0.5648432090204999,,False
+nodata,Support for flexible and innovative trial designs,Caregiver burden and family impact,0.3435742850226289,,False
+nodata,Support for flexible and innovative trial designs,Use of personal stories to humanize policy decisions,0.4653577258985637,,False
+nodata,Support for flexible and innovative trial designs,Desire for meaningful patient involvement in policymaking,0.5668133320244101,,False
+nodata,Support for flexible and innovative trial designs,Need for regulatory flexibility in the context of unmet medical need,0.5918826787542466,3.0,True
+nodata,Support for flexible and innovative trial designs,Concerns about how treatment benefit is measured,0.5493574406025562,,False
+nodata,Support for flexible and innovative trial designs,Tension between rapid access and evidentiary certainty,0.4567383312076783,,False
+nodata,Support for flexible and innovative trial designs,Concern that promising therapies face avoidable development obstacles,0.526931160004403,,False
+nodata,Support for flexible and innovative trial designs,Patients as informed partners in research and regulation,0.5917233987236403,,False
+nodata,Support for flexible and innovative trial designs,Drug-development policy as a moral responsibility,0.46941785337679764,,False
+nodata,Support for flexible and innovative trial designs,"Grief, loss, and witnessing disease progression",0.44999667875838545,,False
+nodata,Clinical trial participation is burdensome and difficult,Perception that current regulatory processes are too slow,0.5948723100628919,,False
+nodata,Clinical trial participation is burdensome and difficult,Support for earlier access to investigational therapies,0.47150549941723546,,False
+nodata,Clinical trial participation is burdensome and difficult,Recognition of ALS heterogeneity,0.49783339835788226,,False
+nodata,Clinical trial participation is burdensome and difficult,Hope tied to emerging scientific progress,0.40951628474079976,,False
+nodata,Clinical trial participation is burdensome and difficult,Caregiver burden and family impact,0.5756269442153592,,False
+nodata,Clinical trial participation is burdensome and difficult,Use of personal stories to humanize policy decisions,0.43839632972831866,,False
+nodata,Clinical trial participation is burdensome and difficult,Desire for meaningful patient involvement in policymaking,0.5307803976514305,,False
+nodata,Clinical trial participation is burdensome and difficult,Need for regulatory flexibility in the context of unmet medical need,0.42302919520151144,,False
+nodata,Clinical trial participation is burdensome and difficult,Concerns about how treatment benefit is measured,0.506119147121507,,False
+nodata,Clinical trial participation is burdensome and difficult,Tension between rapid access and evidentiary certainty,0.4716566931698978,,False
+nodata,Clinical trial participation is burdensome and difficult,Concern that promising therapies face avoidable development obstacles,0.5875751181852742,,False
+nodata,Clinical trial participation is burdensome and difficult,Patients as informed partners in research and regulation,0.5556756529647371,,False
+nodata,Clinical trial participation is burdensome and difficult,Drug-development policy as a moral responsibility,0.42625327941775176,,False
+nodata,Clinical trial participation is burdensome and difficult,"Grief, loss, and witnessing disease progression",0.5484665658370304,,False
+nodata,Perception that current regulatory processes are too slow,Support for earlier access to investigational therapies,0.5736292433085449,,False
+nodata,Perception that current regulatory processes are too slow,Recognition of ALS heterogeneity,0.5106416734763645,,False
+nodata,Perception that current regulatory processes are too slow,Hope tied to emerging scientific progress,0.4443310622460334,,False
+nodata,Perception that current regulatory processes are too slow,Caregiver burden and family impact,0.44080419194461173,,False
+nodata,Perception that current regulatory processes are too slow,Use of personal stories to humanize policy decisions,0.43326886765850786,,False
+nodata,Perception that current regulatory processes are too slow,Desire for meaningful patient involvement in policymaking,0.5064730704451459,,False
+nodata,Perception that current regulatory processes are too slow,Need for regulatory flexibility in the context of unmet medical need,0.5610930893294324,,False
+nodata,Perception that current regulatory processes are too slow,Concerns about how treatment benefit is measured,0.5078149441804438,,False
+nodata,Perception that current regulatory processes are too slow,Tension between rapid access and evidentiary certainty,0.5990198159595993,,False
+nodata,Perception that current regulatory processes are too slow,Concern that promising therapies face avoidable development obstacles,0.6637269188504814,,False
+nodata,Perception that current regulatory processes are too slow,Patients as informed partners in research and regulation,0.5191246282378742,,False
+nodata,Perception that current regulatory processes are too slow,Drug-development policy as a moral responsibility,0.5040122595870983,,False
+nodata,Perception that current regulatory processes are too slow,"Grief, loss, and witnessing disease progression",0.5905814930462441,,False
+nodata,Support for earlier access to investigational therapies,Recognition of ALS heterogeneity,0.48244859915267596,,False
+nodata,Support for earlier access to investigational therapies,Hope tied to emerging scientific progress,0.5779706458170025,,False
+nodata,Support for earlier access to investigational therapies,Caregiver burden and family impact,0.28240058342462276,,False
+nodata,Support for earlier access to investigational therapies,Use of personal stories to humanize policy decisions,0.5216663245367608,,False
+nodata,Support for earlier access to investigational therapies,Desire for meaningful patient involvement in policymaking,0.5939515681287543,,False
+nodata,Support for earlier access to investigational therapies,Need for regulatory flexibility in the context of unmet medical need,0.6875643254918301,,False
+nodata,Support for earlier access to investigational therapies,Concerns about how treatment benefit is measured,0.5168054672320459,,False
+nodata,Support for earlier access to investigational therapies,Tension between rapid access and evidentiary certainty,0.5124619731021487,3.0,True
+nodata,Support for earlier access to investigational therapies,Concern that promising therapies face avoidable development obstacles,0.5977282559966101,,False
+nodata,Support for earlier access to investigational therapies,Patients as informed partners in research and regulation,0.5216462522149018,,False
+nodata,Support for earlier access to investigational therapies,Drug-development policy as a moral responsibility,0.5803408849370192,,False
+nodata,Support for earlier access to investigational therapies,"Grief, loss, and witnessing disease progression",0.466567359496705,,False
+nodata,Recognition of ALS heterogeneity,Hope tied to emerging scientific progress,0.4922839873915935,,False
+nodata,Recognition of ALS heterogeneity,Caregiver burden and family impact,0.45652190595448816,,False
+nodata,Recognition of ALS heterogeneity,Use of personal stories to humanize policy decisions,0.4780951704756341,,False
+nodata,Recognition of ALS heterogeneity,Desire for meaningful patient involvement in policymaking,0.46772917383563267,,False
+nodata,Recognition of ALS heterogeneity,Need for regulatory flexibility in the context of unmet medical need,0.5015247157162221,,False
+nodata,Recognition of ALS heterogeneity,Concerns about how treatment benefit is measured,0.5155683925978906,,False
+nodata,Recognition of ALS heterogeneity,Tension between rapid access and evidentiary certainty,0.399420668148073,,False
+nodata,Recognition of ALS heterogeneity,Concern that promising therapies face avoidable development obstacles,0.4871091537698075,,False
+nodata,Recognition of ALS heterogeneity,Patients as informed partners in research and regulation,0.557678162269586,,False
+nodata,Recognition of ALS heterogeneity,Drug-development policy as a moral responsibility,0.4596215236138336,,False
+nodata,Recognition of ALS heterogeneity,"Grief, loss, and witnessing disease progression",0.5373615900556606,,False
+nodata,Hope tied to emerging scientific progress,Caregiver burden and family impact,0.32605802355614627,,False
+nodata,Hope tied to emerging scientific progress,Use of personal stories to humanize policy decisions,0.47651770833210183,,False
+nodata,Hope tied to emerging scientific progress,Desire for meaningful patient involvement in policymaking,0.48591451258728824,,False
+nodata,Hope tied to emerging scientific progress,Need for regulatory flexibility in the context of unmet medical need,0.4761343738630577,,False
+nodata,Hope tied to emerging scientific progress,Concerns about how treatment benefit is measured,0.5224570728332024,,False
+nodata,Hope tied to emerging scientific progress,Tension between rapid access and evidentiary certainty,0.4229976644614068,,False
+nodata,Hope tied to emerging scientific progress,Concern that promising therapies face avoidable development obstacles,0.5884960001701015,,False
+nodata,Hope tied to emerging scientific progress,Patients as informed partners in research and regulation,0.5120635353151022,,False
+nodata,Hope tied to emerging scientific progress,Drug-development policy as a moral responsibility,0.5012976032392289,,False
+nodata,Hope tied to emerging scientific progress,"Grief, loss, and witnessing disease progression",0.4938590062804897,,False
+nodata,Caregiver burden and family impact,Use of personal stories to humanize policy decisions,0.4824411515979227,,False
+nodata,Caregiver burden and family impact,Desire for meaningful patient involvement in policymaking,0.38849507880594975,,False
+nodata,Caregiver burden and family impact,Need for regulatory flexibility in the context of unmet medical need,0.2902934074697982,,False
+nodata,Caregiver burden and family impact,Concerns about how treatment benefit is measured,0.39757450420293705,,False
+nodata,Caregiver burden and family impact,Tension between rapid access and evidentiary certainty,0.34355149960163955,,False
+nodata,Caregiver burden and family impact,Concern that promising therapies face avoidable development obstacles,0.409877823678838,,False
+nodata,Caregiver burden and family impact,Patients as informed partners in research and regulation,0.4798701225681325,,False
+nodata,Caregiver burden and family impact,Drug-development policy as a moral responsibility,0.43275049954620476,,False
+nodata,Caregiver burden and family impact,"Grief, loss, and witnessing disease progression",0.6300904042359528,,False
+nodata,Use of personal stories to humanize policy decisions,Desire for meaningful patient involvement in policymaking,0.5747512627096675,,False
+nodata,Use of personal stories to humanize policy decisions,Need for regulatory flexibility in the context of unmet medical need,0.4752240336411155,,False
+nodata,Use of personal stories to humanize policy decisions,Concerns about how treatment benefit is measured,0.5073424441571927,,False
+nodata,Use of personal stories to humanize policy decisions,Tension between rapid access and evidentiary certainty,0.3886577724453684,,False
+nodata,Use of personal stories to humanize policy decisions,Concern that promising therapies face avoidable development obstacles,0.48936449715401503,,False
+nodata,Use of personal stories to humanize policy decisions,Patients as informed partners in research and regulation,0.5603251875547993,,False
+nodata,Use of personal stories to humanize policy decisions,Drug-development policy as a moral responsibility,0.5966797685973769,,False
+nodata,Use of personal stories to humanize policy decisions,"Grief, loss, and witnessing disease progression",0.6087798411961723,,False
+nodata,Desire for meaningful patient involvement in policymaking,Need for regulatory flexibility in the context of unmet medical need,0.5463327073288035,,False
+nodata,Desire for meaningful patient involvement in policymaking,Concerns about how treatment benefit is measured,0.588275639116743,,False
+nodata,Desire for meaningful patient involvement in policymaking,Tension between rapid access and evidentiary certainty,0.45820847119863817,,False
+nodata,Desire for meaningful patient involvement in policymaking,Concern that promising therapies face avoidable development obstacles,0.5163086123860686,,False
+nodata,Desire for meaningful patient involvement in policymaking,Patients as informed partners in research and regulation,0.7061102688460216,3.0,True
+nodata,Desire for meaningful patient involvement in policymaking,Drug-development policy as a moral responsibility,0.5591383628879804,,False
+nodata,Desire for meaningful patient involvement in policymaking,"Grief, loss, and witnessing disease progression",0.480594120636331,,False
+nodata,Need for regulatory flexibility in the context of unmet medical need,Concerns about how treatment benefit is measured,0.5030895167609067,,False
+nodata,Need for regulatory flexibility in the context of unmet medical need,Tension between rapid access and evidentiary certainty,0.5286633132971696,,False
+nodata,Need for regulatory flexibility in the context of unmet medical need,Concern that promising therapies face avoidable development obstacles,0.5649409791493463,,False
+nodata,Need for regulatory flexibility in the context of unmet medical need,Patients as informed partners in research and regulation,0.5021028198749736,,False
+nodata,Need for regulatory flexibility in the context of unmet medical need,Drug-development policy as a moral responsibility,0.5710340211467678,,False
+nodata,Need for regulatory flexibility in the context of unmet medical need,"Grief, loss, and witnessing disease progression",0.44220706511570623,,False
+nodata,Concerns about how treatment benefit is measured,Tension between rapid access and evidentiary certainty,0.4683457245719726,,False
+nodata,Concerns about how treatment benefit is measured,Concern that promising therapies face avoidable development obstacles,0.5855005111897142,,False
+nodata,Concerns about how treatment benefit is measured,Patients as informed partners in research and regulation,0.518878691961331,,False
+nodata,Concerns about how treatment benefit is measured,Drug-development policy as a moral responsibility,0.4598860613388644,,False
+nodata,Concerns about how treatment benefit is measured,"Grief, loss, and witnessing disease progression",0.4988079660108065,,False
+nodata,Tension between rapid access and evidentiary certainty,Concern that promising therapies face avoidable development obstacles,0.5128540091267791,,False
+nodata,Tension between rapid access and evidentiary certainty,Patients as informed partners in research and regulation,0.4597620718114384,,False
+nodata,Tension between rapid access and evidentiary certainty,Drug-development policy as a moral responsibility,0.4726187067716702,,False
+nodata,Tension between rapid access and evidentiary certainty,"Grief, loss, and witnessing disease progression",0.4768314941951003,,False
+nodata,Concern that promising therapies face avoidable development obstacles,Patients as informed partners in research and regulation,0.4747071298901309,,False
+nodata,Concern that promising therapies face avoidable development obstacles,Drug-development policy as a moral responsibility,0.5908143627286453,,False
+nodata,Concern that promising therapies face avoidable development obstacles,"Grief, loss, and witnessing disease progression",0.5564118655797184,,False
+nodata,Patients as informed partners in research and regulation,Drug-development policy as a moral responsibility,0.5484795105188436,,False
+nodata,Patients as informed partners in research and regulation,"Grief, loss, and witnessing disease progression",0.5085974866458871,,False
+nodata,Drug-development policy as a moral responsibility,"Grief, loss, and witnessing disease progression",0.5941984872176743,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Expanded Access to Experimental Treatments,0.5906783356444021,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Opposition to Placebo-Controlled Trials,0.6182043894785116,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Demand for Innovative Clinical Trial Designs,0.6571550912562955,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Broader Clinical Trial Eligibility,0.6027197769113842,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Recognition of ALS Heterogeneity and Personalized Medicine,0.6278977858471563,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Use of Technology and Remote Data Collection,0.3901040556396799,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,"Decentralized, Mobile, and Satellite Trial Sites",0.472707688005542,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Alternative Endpoints Beyond Survival,0.63899589962887,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Patient Autonomy and Right to Choose Risk,0.4721596190335126,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Criticism of FDA Processes and Regulatory Conservatism,0.6398249361335305,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Learning from Other Diseases (Especially HIV/AIDS),0.7057113840702317,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Patient and Caregiver Voice Should Shape Policy,0.6169280050670166,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,"Hope, Compassion, and Human Suffering",0.4935069114843032,,False
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,Frustration With Lack of Effective Treatments,0.5587534776707457,,False
+loweffort,Expanded Access to Experimental Treatments,Opposition to Placebo-Controlled Trials,0.6172425979935316,,False
+loweffort,Expanded Access to Experimental Treatments,Demand for Innovative Clinical Trial Designs,0.6082636619874568,2.0,True
+loweffort,Expanded Access to Experimental Treatments,Broader Clinical Trial Eligibility,0.5801722288813771,,False
+loweffort,Expanded Access to Experimental Treatments,Recognition of ALS Heterogeneity and Personalized Medicine,0.5289439373116567,,False
+loweffort,Expanded Access to Experimental Treatments,Use of Technology and Remote Data Collection,0.4965772059607808,,False
+loweffort,Expanded Access to Experimental Treatments,"Decentralized, Mobile, and Satellite Trial Sites",0.5212496084119207,,False
+loweffort,Expanded Access to Experimental Treatments,Alternative Endpoints Beyond Survival,0.49409481927726423,,False
+loweffort,Expanded Access to Experimental Treatments,Patient Autonomy and Right to Choose Risk,0.5732324973224874,3.0,True
+loweffort,Expanded Access to Experimental Treatments,Criticism of FDA Processes and Regulatory Conservatism,0.5233576387953621,,False
+loweffort,Expanded Access to Experimental Treatments,Learning from Other Diseases (Especially HIV/AIDS),0.5872246578851713,,False
+loweffort,Expanded Access to Experimental Treatments,Patient and Caregiver Voice Should Shape Policy,0.5492463524046,,False
+loweffort,Expanded Access to Experimental Treatments,"Hope, Compassion, and Human Suffering",0.45559006066404323,,False
+loweffort,Expanded Access to Experimental Treatments,Frustration With Lack of Effective Treatments,0.5614551041224347,,False
+loweffort,Opposition to Placebo-Controlled Trials,Demand for Innovative Clinical Trial Designs,0.7056299772866975,2.0,True
+loweffort,Opposition to Placebo-Controlled Trials,Broader Clinical Trial Eligibility,0.5959418788092578,,False
+loweffort,Opposition to Placebo-Controlled Trials,Recognition of ALS Heterogeneity and Personalized Medicine,0.5917864654975253,,False
+loweffort,Opposition to Placebo-Controlled Trials,Use of Technology and Remote Data Collection,0.43055223854978825,,False
+loweffort,Opposition to Placebo-Controlled Trials,"Decentralized, Mobile, and Satellite Trial Sites",0.5039932949384872,,False
+loweffort,Opposition to Placebo-Controlled Trials,Alternative Endpoints Beyond Survival,0.5793745109776974,,False
+loweffort,Opposition to Placebo-Controlled Trials,Patient Autonomy and Right to Choose Risk,0.5521348817774294,,False
+loweffort,Opposition to Placebo-Controlled Trials,Criticism of FDA Processes and Regulatory Conservatism,0.4714027281999623,,False
+loweffort,Opposition to Placebo-Controlled Trials,Learning from Other Diseases (Especially HIV/AIDS),0.5689661171583454,,False
+loweffort,Opposition to Placebo-Controlled Trials,Patient and Caregiver Voice Should Shape Policy,0.5684232654932002,,False
+loweffort,Opposition to Placebo-Controlled Trials,"Hope, Compassion, and Human Suffering",0.48291270644882217,,False
+loweffort,Opposition to Placebo-Controlled Trials,Frustration With Lack of Effective Treatments,0.5702285356220714,,False
+loweffort,Demand for Innovative Clinical Trial Designs,Broader Clinical Trial Eligibility,0.6575819387207859,2.0,True
+loweffort,Demand for Innovative Clinical Trial Designs,Recognition of ALS Heterogeneity and Personalized Medicine,0.647477766560484,,False
+loweffort,Demand for Innovative Clinical Trial Designs,Use of Technology and Remote Data Collection,0.5032551566065925,2.0,True
+loweffort,Demand for Innovative Clinical Trial Designs,"Decentralized, Mobile, and Satellite Trial Sites",0.6017814672708169,2.0,True
+loweffort,Demand for Innovative Clinical Trial Designs,Alternative Endpoints Beyond Survival,0.6033842640346233,,False
+loweffort,Demand for Innovative Clinical Trial Designs,Patient Autonomy and Right to Choose Risk,0.45631222981336195,,False
+loweffort,Demand for Innovative Clinical Trial Designs,Criticism of FDA Processes and Regulatory Conservatism,0.5553503206557433,,False
+loweffort,Demand for Innovative Clinical Trial Designs,Learning from Other Diseases (Especially HIV/AIDS),0.5810431430703019,,False
+loweffort,Demand for Innovative Clinical Trial Designs,Patient and Caregiver Voice Should Shape Policy,0.5540112206511836,,False
+loweffort,Demand for Innovative Clinical Trial Designs,"Hope, Compassion, and Human Suffering",0.3900315517792604,,False
+loweffort,Demand for Innovative Clinical Trial Designs,Frustration With Lack of Effective Treatments,0.5067999105534445,,False
+loweffort,Broader Clinical Trial Eligibility,Recognition of ALS Heterogeneity and Personalized Medicine,0.6907393899993615,,False
+loweffort,Broader Clinical Trial Eligibility,Use of Technology and Remote Data Collection,0.4408730028961074,,False
+loweffort,Broader Clinical Trial Eligibility,"Decentralized, Mobile, and Satellite Trial Sites",0.5841684322243237,,False
+loweffort,Broader Clinical Trial Eligibility,Alternative Endpoints Beyond Survival,0.5631905310826057,,False
+loweffort,Broader Clinical Trial Eligibility,Patient Autonomy and Right to Choose Risk,0.45511861959790295,,False
+loweffort,Broader Clinical Trial Eligibility,Criticism of FDA Processes and Regulatory Conservatism,0.4753822540646118,,False
+loweffort,Broader Clinical Trial Eligibility,Learning from Other Diseases (Especially HIV/AIDS),0.5320010551288322,,False
+loweffort,Broader Clinical Trial Eligibility,Patient and Caregiver Voice Should Shape Policy,0.5961647166689785,,False
+loweffort,Broader Clinical Trial Eligibility,"Hope, Compassion, and Human Suffering",0.4084061009503499,,False
+loweffort,Broader Clinical Trial Eligibility,Frustration With Lack of Effective Treatments,0.5014356324216848,,False
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,Use of Technology and Remote Data Collection,0.45353204267745745,,False
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,"Decentralized, Mobile, and Satellite Trial Sites",0.5643041188855282,,False
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,Alternative Endpoints Beyond Survival,0.5720611720345755,,False
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,Patient Autonomy and Right to Choose Risk,0.4669302960788507,,False
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,Criticism of FDA Processes and Regulatory Conservatism,0.43888869461989405,,False
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,Learning from Other Diseases (Especially HIV/AIDS),0.6229883712134235,,False
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,Patient and Caregiver Voice Should Shape Policy,0.6207641667735073,,False
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,"Hope, Compassion, and Human Suffering",0.4224943074698626,,False
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,Frustration With Lack of Effective Treatments,0.5461901536117767,,False
+loweffort,Use of Technology and Remote Data Collection,"Decentralized, Mobile, and Satellite Trial Sites",0.6334674228416111,4.0,True
+loweffort,Use of Technology and Remote Data Collection,Alternative Endpoints Beyond Survival,0.42265253090469174,,False
+loweffort,Use of Technology and Remote Data Collection,Patient Autonomy and Right to Choose Risk,0.41952713873638825,,False
+loweffort,Use of Technology and Remote Data Collection,Criticism of FDA Processes and Regulatory Conservatism,0.37203956805571753,,False
+loweffort,Use of Technology and Remote Data Collection,Learning from Other Diseases (Especially HIV/AIDS),0.4558579489505504,,False
+loweffort,Use of Technology and Remote Data Collection,Patient and Caregiver Voice Should Shape Policy,0.5031047003900453,,False
+loweffort,Use of Technology and Remote Data Collection,"Hope, Compassion, and Human Suffering",0.43591516933190017,,False
+loweffort,Use of Technology and Remote Data Collection,Frustration With Lack of Effective Treatments,0.4217482161424371,,False
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",Alternative Endpoints Beyond Survival,0.4898990871209523,,False
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",Patient Autonomy and Right to Choose Risk,0.4158010620230005,,False
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",Criticism of FDA Processes and Regulatory Conservatism,0.32749548154658115,,False
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",Learning from Other Diseases (Especially HIV/AIDS),0.4879109256748017,,False
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",Patient and Caregiver Voice Should Shape Policy,0.48090011555412615,,False
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites","Hope, Compassion, and Human Suffering",0.4002745130445166,,False
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",Frustration With Lack of Effective Treatments,0.41565410996780167,,False
+loweffort,Alternative Endpoints Beyond Survival,Patient Autonomy and Right to Choose Risk,0.4502933033648087,,False
+loweffort,Alternative Endpoints Beyond Survival,Criticism of FDA Processes and Regulatory Conservatism,0.4483815430130495,,False
+loweffort,Alternative Endpoints Beyond Survival,Learning from Other Diseases (Especially HIV/AIDS),0.558217472646771,,False
+loweffort,Alternative Endpoints Beyond Survival,Patient and Caregiver Voice Should Shape Policy,0.5383898043785722,,False
+loweffort,Alternative Endpoints Beyond Survival,"Hope, Compassion, and Human Suffering",0.5095357842844875,,False
+loweffort,Alternative Endpoints Beyond Survival,Frustration With Lack of Effective Treatments,0.4940478410091415,,False
+loweffort,Patient Autonomy and Right to Choose Risk,Criticism of FDA Processes and Regulatory Conservatism,0.41770513151152355,,False
+loweffort,Patient Autonomy and Right to Choose Risk,Learning from Other Diseases (Especially HIV/AIDS),0.43865913231165776,,False
+loweffort,Patient Autonomy and Right to Choose Risk,Patient and Caregiver Voice Should Shape Policy,0.5453173449831138,,False
+loweffort,Patient Autonomy and Right to Choose Risk,"Hope, Compassion, and Human Suffering",0.4928626972797838,,False
+loweffort,Patient Autonomy and Right to Choose Risk,Frustration With Lack of Effective Treatments,0.3694522329964723,,False
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,Learning from Other Diseases (Especially HIV/AIDS),0.48753123796258335,,False
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,Patient and Caregiver Voice Should Shape Policy,0.5071262296891315,,False
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,"Hope, Compassion, and Human Suffering",0.3453675684187113,,False
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,Frustration With Lack of Effective Treatments,0.4730201222889286,,False
+loweffort,Learning from Other Diseases (Especially HIV/AIDS),Patient and Caregiver Voice Should Shape Policy,0.6079213235261994,,False
+loweffort,Learning from Other Diseases (Especially HIV/AIDS),"Hope, Compassion, and Human Suffering",0.4375164333246986,,False
+loweffort,Learning from Other Diseases (Especially HIV/AIDS),Frustration With Lack of Effective Treatments,0.5330601613575071,,False
+loweffort,Patient and Caregiver Voice Should Shape Policy,"Hope, Compassion, and Human Suffering",0.5344943380100066,,False
+loweffort,Patient and Caregiver Voice Should Shape Policy,Frustration With Lack of Effective Treatments,0.5152842401245532,,False
+loweffort,"Hope, Compassion, and Human Suffering",Frustration With Lack of Effective Treatments,0.5159911830852628,,False
+engineered,ALS progression is incompatible with conventional drug approval timelines,Patients should be allowed to choose early access to promising treatments,0.6848569067138065,,False
+engineered,ALS progression is incompatible with conventional drug approval timelines,Clinical trial design should be modernized and tailored to ALS,0.694046691412725,,False
+engineered,ALS progression is incompatible with conventional drug approval timelines,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,0.6586597569393062,,False
+engineered,ALS progression is incompatible with conventional drug approval timelines,Trials should be more inclusive and accessible to the ALS population,0.5970001275877108,,False
+engineered,ALS progression is incompatible with conventional drug approval timelines,The ALS community feels unheard and believes guidance fails to reflect lived experience,0.6120476590812352,,False
+engineered,Patients should be allowed to choose early access to promising treatments,Clinical trial design should be modernized and tailored to ALS,0.6402686830494086,,False
+engineered,Patients should be allowed to choose early access to promising treatments,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,0.6514433411490047,,False
+engineered,Patients should be allowed to choose early access to promising treatments,Trials should be more inclusive and accessible to the ALS population,0.6758592296770902,,False
+engineered,Patients should be allowed to choose early access to promising treatments,The ALS community feels unheard and believes guidance fails to reflect lived experience,0.5507473089569098,,False
+engineered,Clinical trial design should be modernized and tailored to ALS,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,0.6306013483184195,,False
+engineered,Clinical trial design should be modernized and tailored to ALS,Trials should be more inclusive and accessible to the ALS population,0.7458847110269704,,False
+engineered,Clinical trial design should be modernized and tailored to ALS,The ALS community feels unheard and believes guidance fails to reflect lived experience,0.5595076314994495,,False
+engineered,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,Trials should be more inclusive and accessible to the ALS population,0.603698788591356,,False
+engineered,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,The ALS community feels unheard and believes guidance fails to reflect lived experience,0.5577178092331417,,False
+engineered,Trials should be more inclusive and accessible to the ALS population,The ALS community feels unheard and believes guidance fails to reflect lived experience,0.6078604261859092,,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,0.7448906673702776,,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,0.726558001065835,,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,0.7470343416006198,,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,ANGER Subtheme: Appeal to emotion through anger,0.5721509100258494,,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,PLEADING Subtheme: Appeal to emotion through pleading,0.6364344368159688,,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,0.6412828298406064,,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,0.6682230950661764,,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,0.5635573152866388,,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,0.6929519139145363,,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,0.6750031554370813,,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,ANGER Subtheme: Appeal to emotion through anger,0.5625286020130652,,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,PLEADING Subtheme: Appeal to emotion through pleading,0.5493965691769211,,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,0.5996366074728143,,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,0.5877399498429222,,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,0.6204133685684234,,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,0.7041484400448041,,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,ANGER Subtheme: Appeal to emotion through anger,0.6095173599655742,,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,PLEADING Subtheme: Appeal to emotion through pleading,0.6389555623236667,,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,0.6230208637670961,,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,0.6932233574242466,,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,0.5722955459272897,,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,ANGER Subtheme: Appeal to emotion through anger,0.5731166055866899,,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,PLEADING Subtheme: Appeal to emotion through pleading,0.5695171199628198,,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,0.6506956559579699,,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,0.6219209991665119,,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,0.5610653283662623,,False
+human,ANGER Subtheme: Appeal to emotion through anger,PLEADING Subtheme: Appeal to emotion through pleading,0.7315528625291309,,False
+human,ANGER Subtheme: Appeal to emotion through anger,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,0.5470224586030021,,False
+human,ANGER Subtheme: Appeal to emotion through anger,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,0.5889133708766946,,False
+human,ANGER Subtheme: Appeal to emotion through anger,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,0.6233868705792587,,False
+human,PLEADING Subtheme: Appeal to emotion through pleading,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,0.6632246520055315,,False
+human,PLEADING Subtheme: Appeal to emotion through pleading,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,0.6665532092363747,,False
+human,PLEADING Subtheme: Appeal to emotion through pleading,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,0.6662018053975081,,False
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,0.6149037521280356,,False
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,0.6596971674174424,,False
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,0.5734315833905177,,False

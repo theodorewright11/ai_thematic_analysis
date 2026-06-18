@@ -1,0 +1,51 @@
+condition,theme,n_quotes,n_cited_comments,grounding,researchQuestionFit,interpretationLevel,aiPriorNovelty,analyticalNovelty
+nodata,Urgency driven by the fatal progression of ALS,0,0,,5,2,,1.0
+nodata,Willingness to accept higher treatment risks,0,0,,5,2,,2.0
+nodata,Patient experience as essential evidence,0,0,,5,2,,3.0
+nodata,Meaningful outcomes extend beyond survival,0,0,,5,1,,3.0
+nodata,Support for flexible and innovative trial designs,0,0,,5,2,,1.0
+nodata,Clinical trial participation is burdensome and difficult,0,0,,5,2,,2.0
+nodata,Perception that current regulatory processes are too slow,0,0,,5,3,,2.0
+nodata,Support for earlier access to investigational therapies,0,0,,5,2,,3.0
+nodata,Recognition of ALS heterogeneity,0,0,,5,1,,1.0
+nodata,Hope tied to emerging scientific progress,0,0,,5,3,,4.0
+nodata,Caregiver burden and family impact,0,0,,5,2,,1.0
+nodata,Use of personal stories to humanize policy decisions,0,0,,5,4,,3.0
+nodata,Desire for meaningful patient involvement in policymaking,0,0,,5,2,,1.0
+nodata,Need for regulatory flexibility in the context of unmet medical need,0,0,,4,3,,1.0
+nodata,Concerns about how treatment benefit is measured,0,0,,5,2,,2.0
+nodata,Tension between rapid access and evidentiary certainty,0,0,,3,3,,3.0
+nodata,Concern that promising therapies face avoidable development obstacles,0,0,,3,2,,2.0
+nodata,Patients as informed partners in research and regulation,0,0,,5,3,,4.0
+nodata,Drug-development policy as a moral responsibility,0,0,,5,4,,3.0
+nodata,"Grief, loss, and witnessing disease progression",0,0,,5,2,,2.0
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,4,12,5.0,4,1,1.0,1.0
+loweffort,Expanded Access to Experimental Treatments,4,11,5.0,5,1,1.0,1.0
+loweffort,Opposition to Placebo-Controlled Trials,3,9,5.0,5,1,2.0,2.0
+loweffort,Demand for Innovative Clinical Trial Designs,3,7,5.0,5,2,1.0,1.0
+loweffort,Broader Clinical Trial Eligibility,3,5,5.0,5,1,3.0,3.0
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,3,6,5.0,5,2,1.0,2.0
+loweffort,Use of Technology and Remote Data Collection,3,6,5.0,5,1,1.0,3.0
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",3,5,5.0,5,1,2.0,3.0
+loweffort,Alternative Endpoints Beyond Survival,3,5,5.0,5,1,1.0,3.0
+loweffort,Patient Autonomy and Right to Choose Risk,3,7,5.0,5,2,2.0,3.0
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,3,8,5.0,5,1,1.0,2.0
+loweffort,Learning from Other Diseases (Especially HIV/AIDS),3,3,5.0,5,1,4.0,3.0
+loweffort,Patient and Caregiver Voice Should Shape Policy,3,5,4.0,5,2,1.0,2.0
+loweffort,"Hope, Compassion, and Human Suffering",3,8,5.0,5,3,3.0,3.0
+loweffort,Frustration With Lack of Effective Treatments,3,6,5.0,5,2,4.0,2.0
+engineered,ALS progression is incompatible with conventional drug approval timelines,3,3,5.0,5,3,2.0,3.0
+engineered,Patients should be allowed to choose early access to promising treatments,3,3,5.0,5,2,1.0,2.0
+engineered,Clinical trial design should be modernized and tailored to ALS,4,4,5.0,5,3,2.0,4.0
+engineered,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,4,4,5.0,5,3,1.0,3.0
+engineered,Trials should be more inclusive and accessible to the ALS population,4,4,5.0,5,2,3.0,4.0
+engineered,The ALS community feels unheard and believes guidance fails to reflect lived experience,4,4,5.0,5,3,3.0,3.0
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,36,12,5.0,5,3,4.0,2.0
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,22,7,4.0,5,5,4.0,4.0
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,23,8,5.0,5,4,4.0,4.0
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,15,8,5.0,3,2,5.0,3.0
+human,ANGER Subtheme: Appeal to emotion through anger,31,9,5.0,4,2,3.0,3.0
+human,PLEADING Subtheme: Appeal to emotion through pleading,11,7,5.0,4,3,4.0,4.0
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,8,6,5.0,4,2,2.0,
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,7,4,4.0,5,5,5.0,
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,39,13,5.0,5,2,,

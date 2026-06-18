@@ -1,0 +1,262 @@
+condition,theme,role,interp_level,source,cos_quote_theme,cos_quote_source,mean_cos_corpus,max_cos_corpus,nearest_comment,nearest_is_source
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,supporting,1,,0.6319993903243006,,0.5409070259565874,0.65122257351107,D6,
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,supporting,1,,0.5876102059113879,,0.4883792697459971,0.5812813463988962,D3,
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,supporting,1,,0.16854208863388673,,0.2048449064769018,0.3461289685360945,D1,
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,supporting,1,,0.17944313848838955,,0.23008509420963996,0.31423712330349934,D14,
+loweffort,Expanded Access to Experimental Treatments,supporting,1,,0.4797718511498893,,0.3409395108737838,0.4387149990907906,D3,
+loweffort,Expanded Access to Experimental Treatments,supporting,1,,0.1972927338237033,,0.22492669934428627,0.2742406035181932,D6,
+loweffort,Expanded Access to Experimental Treatments,supporting,1,,0.3145480534202743,,0.19945844463272644,0.29503672279320353,D9,
+loweffort,Expanded Access to Experimental Treatments,supporting,1,,0.22617560324460184,,0.30690846726588594,0.4189212027348551,D16,
+loweffort,Opposition to Placebo-Controlled Trials,supporting,1,,0.6435394168280923,,0.3707547279481097,0.47327040084371186,D13,
+loweffort,Opposition to Placebo-Controlled Trials,supporting,1,,0.399148915404976,,0.2045068055556472,0.3314483176245374,D1,
+loweffort,Opposition to Placebo-Controlled Trials,supporting,1,,0.4303017120423566,,0.369404397375977,0.47203311295613076,D3,
+loweffort,Demand for Innovative Clinical Trial Designs,supporting,2,,0.6741470560913728,,0.42714585457606286,0.5866878736514775,D4,
+loweffort,Demand for Innovative Clinical Trial Designs,supporting,2,,0.5845330744686034,,0.35504809047579566,0.5286203204313876,D1,
+loweffort,Demand for Innovative Clinical Trial Designs,supporting,2,,0.3447614556447479,,0.2656914288087594,0.4722772858412668,D18,
+loweffort,Broader Clinical Trial Eligibility,supporting,1,,0.5653925287155582,,0.2922036382512376,0.44667474220479614,D2,
+loweffort,Broader Clinical Trial Eligibility,supporting,1,,0.5081084772087265,,0.43246919472319956,0.5005471003761321,D5,
+loweffort,Broader Clinical Trial Eligibility,supporting,1,,0.42995625574128105,,0.552914690889722,0.6612199890432947,D6,
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,supporting,2,,0.5161727898156353,,0.3989955170142199,0.4929439123011637,D6,
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,supporting,2,,0.517452392463627,,0.3555964504817356,0.43536928330325,D18,
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,supporting,2,,0.3764687957233543,,0.30997760217563286,0.45221795758543903,D20,
+loweffort,Use of Technology and Remote Data Collection,supporting,1,,0.39990528340581866,,0.14531718005349964,0.37907896985524614,D2,
+loweffort,Use of Technology and Remote Data Collection,supporting,1,,0.4517061996441107,,0.09071152180212846,0.21399332419350273,D2,
+loweffort,Use of Technology and Remote Data Collection,supporting,1,,0.3236349798916808,,0.16854201489076104,0.2986575070794027,D2,
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",supporting,1,,0.3900730765438143,,0.1307388104619159,0.3017594464592755,D2,
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",supporting,1,,0.6044524429656438,,0.2513252343372954,0.47301549759022665,D20,
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",supporting,1,,0.31695483128721,,0.18688805679512022,0.279667341254776,D20,
+loweffort,Alternative Endpoints Beyond Survival,supporting,1,,0.5109592684018189,,0.27545748744944354,0.33814249985447487,D4,
+loweffort,Alternative Endpoints Beyond Survival,supporting,1,,0.41934452236378505,,0.33286216367567023,0.3738938771419665,D19,
+loweffort,Alternative Endpoints Beyond Survival,supporting,1,,0.5195090212766709,,0.287060414134156,0.3554807680869258,D19,
+loweffort,Patient Autonomy and Right to Choose Risk,supporting,2,,0.5404776645149574,,0.3265379874848252,0.43670737776307367,D16,
+loweffort,Patient Autonomy and Right to Choose Risk,supporting,2,,0.5352298594066386,,0.34923170090511924,0.44013097355955416,D16,
+loweffort,Patient Autonomy and Right to Choose Risk,supporting,2,,0.31998655742177057,,0.14547115527531834,0.20767570529576893,D12,
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,supporting,1,,0.23202163968930042,,0.12740652210172582,0.24295717190554347,D1,
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,supporting,1,,0.1887402613248356,,0.15471618905656676,0.22929885302977032,D1,
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,supporting,1,,0.4778974596666576,,0.2794489239817485,0.5851523326385721,D18,
+loweffort,Learning from Other Diseases (Especially HIV/AIDS),supporting,1,,0.43904658829136844,,0.3245635269126568,0.46285566785942445,D9,
+loweffort,Learning from Other Diseases (Especially HIV/AIDS),supporting,1,,0.4976296654102698,,0.3124492353511949,0.39451164134114497,D17,
+loweffort,Learning from Other Diseases (Especially HIV/AIDS),supporting,1,,0.45609064454360176,,0.4820422261761574,0.5810998437215138,D19,
+loweffort,Patient and Caregiver Voice Should Shape Policy,supporting,2,,0.4667069189640853,,0.3993047150708954,0.5122589284507808,D4,
+loweffort,Patient and Caregiver Voice Should Shape Policy,supporting,2,,0.31444671560101917,,0.19785247475230455,0.2885947389842174,D17,
+loweffort,Patient and Caregiver Voice Should Shape Policy,supporting,2,,0.4505166887570051,,0.3429540249015676,0.5666107570268922,D18,
+loweffort,"Hope, Compassion, and Human Suffering",supporting,3,,0.2995733151684554,,0.12678109261318685,0.18735600451129414,D10,
+loweffort,"Hope, Compassion, and Human Suffering",supporting,3,,0.3604602828569596,,0.20962492659772525,0.4253139712560161,D7,
+loweffort,"Hope, Compassion, and Human Suffering",supporting,3,,0.21193350056847685,,0.32893593189640385,0.5692378916062178,D14,
+loweffort,Frustration With Lack of Effective Treatments,supporting,2,,0.503160539795425,,0.29743454660951646,0.4276679423952789,D6,
+loweffort,Frustration With Lack of Effective Treatments,supporting,2,,0.5252296247220537,,0.37177912196955765,0.45013967964197055,D6,
+loweffort,Frustration With Lack of Effective Treatments,supporting,2,,0.2448848897103576,,0.09695257041817265,0.20119264772889311,D1,
+engineered,ALS progression is incompatible with conventional drug approval timelines,core,3,D2,0.7310654675338262,0.7386132585338491,0.6412253264874599,0.7613439105928287,D6,False
+engineered,ALS progression is incompatible with conventional drug approval timelines,core,3,D3,0.6705026532260543,0.8044332931274606,0.6308637905078149,0.8044332931274606,D3,True
+engineered,ALS progression is incompatible with conventional drug approval timelines,supporting,3,D15,0.6664388837974806,0.6331591674430949,0.5668048151688144,0.6497530966279329,D8,False
+engineered,Patients should be allowed to choose early access to promising treatments,core,2,D5,0.6777518935436363,0.6577294574245136,0.5455263705892294,0.6690954142191603,D16,False
+engineered,Patients should be allowed to choose early access to promising treatments,supporting,2,D16,0.56548779077215,0.6482134752691184,0.49218849968916034,0.6482134752691184,D16,True
+engineered,Patients should be allowed to choose early access to promising treatments,supporting,2,D14,0.4384157798521566,0.5491537257425082,0.3925461382490845,0.5491537257425082,D14,True
+engineered,Clinical trial design should be modernized and tailored to ALS,core,3,D1,0.7536884169971,0.8138530983493907,0.6201588670220488,0.8138530983493907,D1,True
+engineered,Clinical trial design should be modernized and tailored to ALS,core,3,D4,0.6685789588085053,0.7455176281323136,0.4982960250655132,0.7455176281323136,D4,True
+engineered,Clinical trial design should be modernized and tailored to ALS,supporting,3,D18,0.507593625081534,0.5136695986476664,0.37666217416844366,0.529153886198804,D4,False
+engineered,Clinical trial design should be modernized and tailored to ALS,supporting,3,D19,0.5150152771567603,0.5333344235576566,0.4336556494550813,0.5439012195870787,D4,False
+engineered,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,core,3,D4,0.3486983108057872,0.38801762134896595,0.292891796034427,0.38801762134896595,D4,True
+engineered,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,core,3,D13,0.502525191284607,0.5024858100095155,0.3898026457618792,0.5024858100095155,D13,True
+engineered,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,supporting,3,D18,0.5369446159665792,0.5416733395303339,0.4239915744789558,0.5416733395303339,D18,True
+engineered,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,supporting,3,D19,0.5148951888333868,0.598178243812952,0.4972484652306135,0.598178243812952,D19,True
+engineered,Trials should be more inclusive and accessible to the ALS population,core,2,D2,0.7505675884250766,0.7530279342364685,0.5789782733428268,0.7530279342364685,D2,True
+engineered,Trials should be more inclusive and accessible to the ALS population,core,2,D4,0.4936113769496391,0.47376648357282936,0.28586752513187796,0.4877648804044686,D2,False
+engineered,Trials should be more inclusive and accessible to the ALS population,supporting,2,D20,0.512264896132341,0.7226092467310222,0.5570675095116893,0.7226092467310222,D20,True
+engineered,Trials should be more inclusive and accessible to the ALS population,supporting,2,D11,0.4868551059597511,0.6145574905118494,0.5082660881540412,0.6145574905118494,D11,True
+engineered,The ALS community feels unheard and believes guidance fails to reflect lived experience,core,3,D4,0.43765052053087977,0.5122589284507808,0.3993047150708954,0.5122589284507808,D4,True
+engineered,The ALS community feels unheard and believes guidance fails to reflect lived experience,core,3,D18,0.5366620154289735,0.5776542144094514,0.3485818496228582,0.5776542144094514,D18,True
+engineered,The ALS community feels unheard and believes guidance fails to reflect lived experience,supporting,3,D7,0.4695482550001158,0.6362907752309426,0.46831950016733337,0.6362907752309426,D7,True
+engineered,The ALS community feels unheard and believes guidance fails to reflect lived experience,supporting,3,D15,0.4745847614246631,0.6311774648514717,0.487290237081751,0.6311774648514717,D15,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D2,0.43543079146435226,0.6957929976203051,0.5841421070750342,0.7222637267205083,D6,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D2,0.4513831606026777,0.579187484649011,0.5536653818943371,0.6368069380423069,D6,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D3,0.19044990785647933,0.34439577740849814,0.2780030527536016,0.38198475228556217,D10,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D3,0.4685961794700401,0.79698409146447,0.6211253128003922,0.79698409146447,D3,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D5,0.38613077847305516,0.6086401274520771,0.5049551712775372,0.6086401274520771,D5,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D6,0.36922328556118417,0.6967315612569732,0.5583786530311966,0.6967315612569732,D6,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D6,0.3715918209834327,0.552902525817491,0.44865742061308633,0.552902525817491,D6,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D6,0.5188811650439903,0.8879181348136634,0.6658950280555272,0.8879181348136634,D6,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D6,0.34446379144031547,0.5339559093893627,0.4190192341634714,0.5339559093893627,D6,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D7,0.38471140246879404,0.6869426694277566,0.5035363644054776,0.6869426694277566,D7,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D7,0.2980265515571245,0.5089818595369721,0.46885632199161237,0.5345879782418099,D9,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D7,0.556686215034046,0.71073734032326,0.5454356313863669,0.71073734032326,D7,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D8,0.22921456625731015,0.32109672608061335,0.32535904111970126,0.4218539529331354,D10,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D9,0.4951422578319379,0.8138304052070005,0.6432087902030919,0.8138304052070005,D9,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D9,0.3121960967251225,0.48208412670531636,0.36535327521560074,0.4989591641384258,D18,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D10,0.30849987353404384,0.577945517213291,0.38412216674536503,0.577945517213291,D10,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D10,0.2842454159675898,0.6697841499742444,0.37266935950542185,0.6697841499742444,D10,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D10,0.3666646923935845,0.5809263837076348,0.45157032462333513,0.5809263837076348,D10,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D10,0.33897887088387246,0.597014971218243,0.5402288978066385,0.6181490966722326,D9,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D13,0.23365951494747658,0.3833895805257529,0.3169433065455334,0.43717904754501863,D10,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D13,0.21744967431588635,0.28425219667453283,0.24338213115586638,0.329441911168207,D10,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D13,0.42846333135905845,0.7374937401042159,0.5718924842498031,0.7374937401042159,D13,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D13,0.4405225708299561,0.7132366983219978,0.5600825369138345,0.7132366983219978,D13,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D15,0.2719933991492824,0.45166515757655146,0.43435013016943425,0.5430890377148244,D6,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D15,0.46092260270483365,0.6510770643849372,0.5870083007628384,0.6738512096439785,D8,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D15,0.16138763226721786,0.29408357338482993,0.2429571106840558,0.3387443280170888,D9,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D18,0.5886107577617827,0.9668056089991885,0.6513782934871954,0.9668056089991885,D18,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D18,0.40310097540476236,0.5978303460686882,0.37073215046944635,0.5978303460686882,D18,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D18,0.35800698240404144,0.6863384945345129,0.4285827404446291,0.6863384945345129,D18,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D18,0.5774469213861232,0.9742388716029479,0.6594506932016607,0.9742388716029479,D18,True
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D18,0.3909325505803454,0.6220712936541889,0.5726908968191363,0.6858618034641111,D1,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D18,0.27477956807023807,0.3606954331692137,0.33947598952047014,0.4443303477458279,D6,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D18,0.32663467180656364,0.5322739708031429,0.41282332284236595,0.564368513099203,D4,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D18,0.3762316891098476,0.6225312227916855,0.5278067102755178,0.6304951428772557,D4,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,core,3,D18,0.25965325929304167,0.3219594907714082,0.280309186139265,0.333732071826504,D6,False
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,supporting,3,D19,0.4310098712823418,0.5975391884824223,0.5022295292539003,0.5975391884824223,D19,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D16,0.4227370223793357,0.7090853272820223,0.4326902130860059,0.7090853272820223,D16,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D2,0.4263273857624085,0.579187484649011,0.5536653818943371,0.6368069380423069,D6,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,core,5,D3,0.37393132714227634,0.7251426589181813,0.510865308199826,0.7251426589181813,D3,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,core,5,D3,0.2656607361553316,0.4562494961069863,0.28109690554355826,0.4562494961069863,D3,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D6,0.3546499148645028,0.8238699086101346,0.5833653414624695,0.8238699086101346,D6,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D6,0.37305024275561016,0.6967315612569732,0.5583786530311966,0.6967315612569732,D6,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,core,5,D12,0.38396849840275965,0.6524922123579748,0.4491242872744589,0.6524922123579748,D12,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,core,5,D12,0.24406826892091232,0.6845591135156642,0.35147079740651793,0.6845591135156642,D12,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,core,5,D12,0.2757039162530513,0.6500660955165379,0.3998894999508912,0.6500660955165379,D12,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,core,5,D12,0.17298084418505397,0.3588936411917014,0.2697636456180584,0.3588936411917014,D12,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D12,0.32452113806544736,0.8102932656488181,0.4672830091142373,0.8102932656488181,D12,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D18,0.5537256249325447,0.9668056089991885,0.6513782934871954,0.9668056089991885,D18,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D18,0.3580486308349591,0.5978303460686882,0.37073215046944635,0.5978303460686882,D18,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D18,0.3887047740132874,0.6863384945345129,0.4285827404446291,0.6863384945345129,D18,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D18,0.5460397314924037,0.9742388716029479,0.6594506932016607,0.9742388716029479,D18,True
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D18,0.39914443445449443,0.6220712936541889,0.5726908968191363,0.6858618034641111,D1,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D18,0.2622619297123723,0.3606954331692137,0.33947598952047014,0.4443303477458279,D6,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D18,0.42774490489755523,0.5322739708031429,0.41282332284236595,0.564368513099203,D4,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D18,0.4033463687465098,0.6225312227916855,0.5278067102755178,0.6304951428772557,D4,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,supporting,5,D18,0.18901528451503954,0.3219594907714082,0.280309186139265,0.333732071826504,D6,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,core,5,D20,0.3140365880946304,0.5927170610203184,0.566112411950605,0.6760226503354198,D6,False
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,core,5,D20,0.3845499575370575,0.7449660390834042,0.613439027616193,0.7449660390834042,D20,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D16,0.46071717483624725,0.6279468406036439,0.44683516445928656,0.6279468406036439,D16,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,supporting,4,D3,0.12530674080724455,0.34439577740849814,0.2780030527536016,0.38198475228556217,D10,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D3,0.42853536926953034,0.79698409146447,0.6211253128003922,0.79698409146447,D3,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D5,0.35282580343130354,0.5510137441118902,0.48084149330598447,0.5617052661894156,D9,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D5,0.26787417112613654,0.4891709930348551,0.3989047599520279,0.4891709930348551,D5,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D6,0.39391387441574394,0.6967315612569732,0.5583786530311966,0.6967315612569732,D6,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D6,0.40144134044744806,0.8238699086101346,0.5833653414624695,0.8238699086101346,D6,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D6,0.3223682099932477,0.552902525817491,0.44865742061308633,0.552902525817491,D6,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D6,0.4738667917461789,0.8879181348136634,0.6658950280555272,0.8879181348136634,D6,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D6,0.25355060407666413,0.5339559093893627,0.4190192341634714,0.5339559093893627,D6,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D7,0.5262852690995401,0.71073734032326,0.5454356313863669,0.71073734032326,D7,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D9,0.4838800623037735,0.8138304052070005,0.6432087902030919,0.8138304052070005,D9,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D9,0.30016230467225874,0.48208412670531636,0.36535327521560074,0.4989591641384258,D18,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D9,0.3520028265722345,0.4881903036926667,0.3476192976304543,0.4881903036926667,D9,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D13,0.13096858684401969,0.3833895805257529,0.3169433065455334,0.43717904754501863,D10,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D13,0.20368519664543783,0.28425219667453283,0.24338213115586638,0.329441911168207,D10,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D13,0.3987997830962467,0.7374937401042159,0.5718924842498031,0.7374937401042159,D13,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D13,0.40720979604362223,0.7132366983219978,0.5600825369138345,0.7132366983219978,D13,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,supporting,4,D17,0.5126700550030888,0.6760081608620955,0.5846547571932345,0.6760081608620955,D17,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,supporting,4,D17,0.4301888298249242,0.5780122508376045,0.5205793417910477,0.6208677016917233,D5,False
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,supporting,4,D17,0.5126700550030888,0.6760081608620955,0.5846547571932345,0.6760081608620955,D17,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D17,0.45278707413455105,0.742531514510387,0.5499387740734397,0.742531514510387,D17,True
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,core,4,D17,0.45850921187567256,0.7484009341882303,0.5582260386630076,0.7484009341882303,D17,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,supporting,2,D16,0.4327912956019591,0.7810750610978284,0.49550832950165863,0.7810750610978284,D16,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,supporting,2,D4,0.2175806903691846,0.40937207270176695,0.28252873047226595,0.42347633526099715,D1,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,supporting,2,D6,0.35450116759552136,0.8238699086101346,0.5833653414624695,0.8238699086101346,D6,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,supporting,2,D6,0.34270380946224377,0.6967315612569732,0.5583786530311966,0.6967315612569732,D6,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,supporting,2,D8,0.382105738879003,0.747526968346749,0.5912437518572184,0.747526968346749,D8,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D10,0.18467233039018915,0.577945517213291,0.38412216674536503,0.577945517213291,D10,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D11,0.23111061546519251,0.3122706069002242,0.17057693729859003,0.3122706069002242,D11,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D13,0.1677913513019123,0.3833895805257529,0.3169433065455334,0.43717904754501863,D10,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D13,0.1524327812260978,0.28425219667453283,0.24338213115586638,0.329441911168207,D10,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D13,0.37005796198848,0.7374937401042159,0.5718924842498031,0.7374937401042159,D13,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D13,0.37060762357343463,0.7132366983219978,0.5600825369138345,0.7132366983219978,D13,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D17,0.2657175580785704,0.43863801865149404,0.3652267667054554,0.4448972945968182,D6,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D17,0.25284370661348815,0.5029288898293347,0.31008155873808413,0.5029288898293347,D17,True
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D17,0.2657175580785704,0.43863801865149404,0.3652267667054554,0.4448972945968182,D6,False
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,core,2,D17,0.38143862707001086,0.6569689493360087,0.44177086153916034,0.6569689493360087,D17,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D13,0.32125869442058996,0.7975621312728156,0.6212239257981341,0.7975621312728156,D13,True
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D20,0.20158622188779898,0.6673046021613798,0.5533166274837967,0.6673046021613798,D20,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D6,0.29483016243634064,0.6967315612569732,0.5583786530311966,0.6967315612569732,D6,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D6,0.2142335514193209,0.8238699086101346,0.5833653414624695,0.8238699086101346,D6,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D6,0.1504161631193935,0.552902525817491,0.44865742061308633,0.552902525817491,D6,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D6,0.2686356538071315,0.8879181348136634,0.6658950280555272,0.8879181348136634,D6,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D6,0.09027520691672165,0.5339559093893627,0.4190192341634714,0.5339559093893627,D6,True
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D7,0.4424455934435015,0.71073734032326,0.5454356313863669,0.71073734032326,D7,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D9,0.2958287099785625,0.8138304052070005,0.6432087902030919,0.8138304052070005,D9,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D9,0.32962321680408624,0.48208412670531636,0.36535327521560074,0.4989591641384258,D18,False
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D11,0.24011153055702744,0.3991815314334239,0.29674579610933016,0.5782276354674192,D18,False
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D12,0.17919775232950372,0.6845591135156642,0.35147079740651793,0.6845591135156642,D12,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D12,0.20669579660777512,0.6500660955165379,0.3998894999508912,0.6500660955165379,D12,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D12,0.14853258377821515,0.3588936411917014,0.2697636456180584,0.3588936411917014,D12,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D13,0.035385025762826434,0.3833895805257529,0.3169433065455334,0.43717904754501863,D10,False
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D13,0.06557268966508849,0.28425219667453283,0.24338213115586638,0.329441911168207,D10,False
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D13,0.24081459046529194,0.7374937401042159,0.5718924842498031,0.7374937401042159,D13,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D13,0.24850661505934657,0.7132366983219978,0.5600825369138345,0.7132366983219978,D13,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D17,0.1984104400489286,0.43863801865149404,0.3652267667054554,0.4448972945968182,D6,False
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D17,0.21718255523373597,0.5029288898293347,0.31008155873808413,0.5029288898293347,D17,True
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D17,0.1984104400489286,0.43863801865149404,0.3652267667054554,0.4448972945968182,D6,False
+human,ANGER Subtheme: Appeal to emotion through anger,core,2,D17,0.27160205353954936,0.6569689493360087,0.44177086153916034,0.6569689493360087,D17,True
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D18,0.32805021170477033,0.9668056089991885,0.6513782934871954,0.9668056089991885,D18,True
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D18,0.2567442548979187,0.5978303460686882,0.37073215046944635,0.5978303460686882,D18,True
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D18,0.2367939638377005,0.6863384945345129,0.4285827404446291,0.6863384945345129,D18,True
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D18,0.31816969329339717,0.9742388716029479,0.6594506932016607,0.9742388716029479,D18,True
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D18,0.18573025061748924,0.6220712936541889,0.5726908968191363,0.6858618034641111,D1,False
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D18,0.15071733581277913,0.3606954331692137,0.33947598952047014,0.4443303477458279,D6,False
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D18,0.33227609975233285,0.5322739708031429,0.41282332284236595,0.564368513099203,D4,False
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D18,0.21388421296924437,0.6225312227916855,0.5278067102755178,0.6304951428772557,D4,False
+human,ANGER Subtheme: Appeal to emotion through anger,supporting,2,D18,0.19032402734132717,0.3219594907714082,0.280309186139265,0.333732071826504,D6,False
+human,PLEADING Subtheme: Appeal to emotion through pleading,core,3,D3,0.43452699244500625,0.79698409146447,0.6211253128003922,0.79698409146447,D3,True
+human,PLEADING Subtheme: Appeal to emotion through pleading,supporting,3,D4,0.19359831977462044,0.40937207270176695,0.28252873047226595,0.42347633526099715,D1,False
+human,PLEADING Subtheme: Appeal to emotion through pleading,supporting,3,D5,0.3891469935210106,0.7084335268829725,0.4822340723646928,0.7084335268829725,D5,True
+human,PLEADING Subtheme: Appeal to emotion through pleading,supporting,3,D7,0.46482869777406494,0.8965867613346508,0.5837544865785987,0.8965867613346508,D7,True
+human,PLEADING Subtheme: Appeal to emotion through pleading,core,3,D8,0.4155219592832303,0.7247659035479842,0.6146055990889112,0.7247659035479842,D8,True
+human,PLEADING Subtheme: Appeal to emotion through pleading,core,3,D8,0.35215479379646236,0.747526968346749,0.5912437518572184,0.747526968346749,D8,True
+human,PLEADING Subtheme: Appeal to emotion through pleading,core,3,D10,0.3239552043530131,0.6697841499742444,0.37266935950542185,0.6697841499742444,D10,True
+human,PLEADING Subtheme: Appeal to emotion through pleading,supporting,3,D10,0.32624848814423213,0.5809263837076348,0.45157032462333513,0.5809263837076348,D10,True
+human,PLEADING Subtheme: Appeal to emotion through pleading,core,3,D10,0.2855369924697279,0.577945517213291,0.38412216674536503,0.577945517213291,D10,True
+human,PLEADING Subtheme: Appeal to emotion through pleading,core,3,D14,0.22401554822540068,0.5704706375492037,0.3080761754642825,0.5704706375492037,D14,True
+human,PLEADING Subtheme: Appeal to emotion through pleading,core,3,D14,0.2718227680399394,0.667512267534048,0.3858237946950195,0.667512267534048,D14,True
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,core,2,D3,0.37352680440901315,0.4916589038460708,0.3942522930102241,0.5291229789575466,D5,False
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,core,2,D5,0.4718161061599371,0.7084335268829725,0.4822340723646928,0.7084335268829725,D5,True
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,core,2,D7,0.37681450429670443,0.8965867613346508,0.5837544865785987,0.8965867613346508,D7,True
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,core,2,D8,0.37156677590618714,0.7079944426408151,0.4541540660231805,0.7079944426408151,D8,True
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,core,2,D10,0.3742127586798212,0.61857464803919,0.38381956013360263,0.61857464803919,D10,True
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,core,2,D10,0.22242478400620835,0.5707144753210112,0.386321848879282,0.5707144753210112,D10,True
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,supporting,2,D10,0.1349179782769826,0.42467543333648783,0.18302466812964574,0.42467543333648783,D10,True
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,core,2,D11,0.4311514003195992,0.6071125584414426,0.4825403242457752,0.6090314655318007,D10,False
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,core,5,D1,0.29618954052238006,0.6230328582067779,0.44619466176327105,0.6230328582067779,D1,True
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,core,5,D7,0.5613125724871111,0.71073734032326,0.5454356313863669,0.71073734032326,D7,True
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,core,5,D14,0.31934070793463404,0.5687593283001873,0.4136121937532204,0.5687593283001873,D14,True
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,core,5,D14,0.31934070793463404,0.5687593283001873,0.4136121937532204,0.5687593283001873,D14,True
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,core,5,D14,0.31934070793463404,0.5687593283001873,0.4136121937532204,0.5687593283001873,D14,True
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,core,5,D14,0.31665425064515185,0.5722844809710349,0.4521587306751583,0.5722844809710349,D14,True
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,supporting,5,D19,0.3777502037405378,0.5975391884824223,0.5022295292539003,0.5975391884824223,D19,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D19,0.4129984110903606,0.7174129943053644,0.5036757433471095,0.7174129943053644,D19,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D19,0.38987702735870045,0.5874550442578843,0.5004806400921449,0.5874550442578843,D19,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D1,0.31466277723746744,0.6506688909887056,0.41164514116024054,0.6506688909887056,D1,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D1,0.4788460455070572,0.8675855955561799,0.6359142084586552,0.8675855955561799,D1,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D2,0.432857778242224,0.857431480366025,0.5764243566612297,0.857431480366025,D2,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D2,0.32857500262505984,0.579187484649011,0.5536653818943371,0.6368069380423069,D6,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D2,0.30241865252926897,0.5922934494679314,0.33819168286248474,0.5922934494679314,D2,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D2,0.27515454352845425,0.5218850039688413,0.3046688746072948,0.5218850039688413,D2,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D4,0.4732554160831325,0.8946537871980279,0.6550069909050913,0.8946537871980279,D4,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D4,0.24592909410335312,0.40937207270176695,0.28252873047226595,0.42347633526099715,D1,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D4,0.41868816355907496,0.7720272846365751,0.5368403840513939,0.7720272846365751,D4,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D5,0.39408523993990474,0.5510137441118902,0.48084149330598447,0.5617052661894156,D9,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D5,0.3043782084120537,0.4891709930348551,0.3989047599520279,0.4891709930348551,D5,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D9,0.4502996814637135,0.8359581867459355,0.6535906469444507,0.8359581867459355,D9,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D9,0.2872323946118663,0.5489371869368002,0.3970674271753455,0.5489371869368002,D9,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D11,0.4290600926069829,0.6894351401174352,0.5834942052482672,0.6894351401174352,D11,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D11,0.39501044734336666,0.6690224332409459,0.5516168539149311,0.7592530272901772,D4,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D12,0.33061492012410676,0.6500660955165379,0.3998894999508912,0.6500660955165379,D12,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D12,0.31262506416891445,0.8102932656488181,0.4672830091142373,0.8102932656488181,D12,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D15,0.2514770652062898,0.45166515757655146,0.43435013016943425,0.5430890377148244,D6,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D15,0.379825162411253,0.6510770643849372,0.5870083007628384,0.6738512096439785,D8,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D15,0.19220449770128392,0.29408357338482993,0.2429571106840558,0.3387443280170888,D9,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D16,0.38798370242639263,0.6700492527152295,0.5582119417638838,0.6700492527152295,D16,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D16,0.38798370242639263,0.6700492527152295,0.5582119417638838,0.6700492527152295,D16,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D17,0.5130956042512235,0.6760081608620955,0.5846547571932345,0.6760081608620955,D17,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D17,0.46724804499081013,0.5780122508376045,0.5205793417910477,0.6208677016917233,D5,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D17,0.5130956042512235,0.6760081608620955,0.5846547571932345,0.6760081608620955,D17,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D18,0.44689226026724416,0.9668056089991885,0.6513782934871954,0.9668056089991885,D18,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D18,0.2848923859996992,0.5978303460686882,0.37073215046944635,0.5978303460686882,D18,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D18,0.3280366626086308,0.6863384945345129,0.4285827404446291,0.6863384945345129,D18,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D18,0.44897134999426336,0.9742388716029479,0.6594506932016607,0.9742388716029479,D18,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D18,0.40102522018973796,0.6220712936541889,0.5726908968191363,0.6858618034641111,D1,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D18,0.2141242244360289,0.3606954331692137,0.33947598952047014,0.4443303477458279,D6,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D18,0.42357397580899153,0.5322739708031429,0.41282332284236595,0.564368513099203,D4,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D18,0.3883664165085562,0.6225312227916855,0.5278067102755178,0.6304951428772557,D4,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D18,0.15214286540560504,0.3219594907714082,0.280309186139265,0.333732071826504,D6,False
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,core,2,D19,0.3670990002132583,0.5975391884824223,0.5022295292539003,0.5975391884824223,D19,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D20,0.2315846957827228,0.481602282778779,0.2997809524507017,0.481602282778779,D20,True
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,supporting,2,D20,0.27961227684887124,0.6291630478756831,0.37264576073507105,0.6291630478756831,D20,True

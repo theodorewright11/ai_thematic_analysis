@@ -19,7 +19,7 @@ Rules for any Claude Code session working on this project.
 - If you added, removed, or changed a research component or evaluation element: update `PRD.md`.
 - If there are instructions all Claude Code sessions should follow: update `CLAUDE.md`.
 - If changes touch folder structure, naming conventions, or project setup: update `README.md`.
-- Make sure each of these `ARCHITECTURE.md`, `PRD.md`, `CLAUDE.md`, and `README.md` files are a reasonable length - long enough for needed details but not more than that.
+- Keep `ARCHITECTURE.md`, `PRD.md`, `CLAUDE.md`, and `README.md` lean and tight — long enough for the important details, never bloated. Trim as you add; do not leave anything important out.
 - Make sure to match the styling for writing in all of these md files when you edit.
 
 ---
@@ -53,4 +53,7 @@ Do not commit/push as part of this — the user reviews first, then approves com
 
 ## Guardrails
 
-(None yet — add pitfalls and failure modes here as they are discovered during implementation.)
+- The rated exports in `outputs/ratings/themes/*.themes-ratings.json` are the canonical data for analysis. A node is a *theme* only if it has ≥1 non-null rating — this drops the human set's parent/container nodes.
+- The quote array may be named `quotes` or `supporting` (renamed mid-project); the loader accepts both. A quote `source` of `"N/A.."` means unattributed.
+- Conditions are asymmetric — do not assume a field exists everywhere: no-data has no quotes and N/A `grounding`/`aiPriorNovelty`; low-effort quotes are paraphrased and cite comments inside the definition; only engineered/human have verbatim sourced quotes.
+- Analysis code in `scripts/` is generic and dataset-agnostic; experiment-specific values live only in the `analysis/run_analysis.ipynb` CONFIG cell. Keep it that way.

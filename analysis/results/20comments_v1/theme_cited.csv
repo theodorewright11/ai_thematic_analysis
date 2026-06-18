@@ -1,0 +1,31 @@
+condition,theme,n_cited,mean_cos_cited,mean_cos_other,cited_minus_other
+loweffort,Urgency Due to the Rapidly Fatal Nature of ALS,12,0.6830096119480865,0.6169408653160935,0.06606874663199302
+loweffort,Expanded Access to Experimental Treatments,11,0.4987691466891844,0.5173695093313577,-0.01860036264217335
+loweffort,Opposition to Placebo-Controlled Trials,9,0.5817112774225973,0.514302566128737,0.06740871129386028
+loweffort,Demand for Innovative Clinical Trial Designs,7,0.625506715753631,0.5299600782815294,0.09554663747210168
+loweffort,Broader Clinical Trial Eligibility,5,0.6140328213469707,0.4882941006500136,0.12573872069695707
+loweffort,Recognition of ALS Heterogeneity and Personalized Medicine,6,0.5707060061584636,0.5052810693376878,0.06542493682077577
+loweffort,Use of Technology and Remote Data Collection,6,0.4352699732498136,0.2915014071039277,0.1437685661458859
+loweffort,"Decentralized, Mobile, and Satellite Trial Sites",5,0.557784131331016,0.4131335483208714,0.1446505830101446
+loweffort,Alternative Endpoints Beyond Survival,5,0.5699059562416733,0.4794841377562886,0.09042181848538466
+loweffort,Patient Autonomy and Right to Choose Risk,7,0.3862446460587358,0.36128285133777666,0.024961794720959163
+loweffort,Criticism of FDA Processes and Regulatory Conservatism,8,0.47378497851584367,0.38719171616469134,0.08659326235115233
+loweffort,Learning from Other Diseases (Especially HIV/AIDS),3,0.6337675017012837,0.5413594861300598,0.09240801557122391
+loweffort,Patient and Caregiver Voice Should Shape Policy,5,0.5562180195827554,0.49759444365132166,0.05862357593143375
+loweffort,"Hope, Compassion, and Human Suffering",8,0.39541114171237185,0.3610925702778533,0.03431857143451855
+loweffort,Frustration With Lack of Effective Treatments,6,0.483800864389962,0.46061386614308797,0.023186998246874035
+engineered,ALS progression is incompatible with conventional drug approval timelines,3,0.6758345888577884,0.6254240147296354,0.050410574128152974
+engineered,Patients should be allowed to choose early access to promising treatments,3,0.619555294983797,0.5920953722210414,0.027459922762755662
+engineered,Clinical trial design should be modernized and tailored to ALS,4,0.6853356488981728,0.5654562044314317,0.11987944446674104
+engineered,Current evidentiary standards are viewed as ethically inappropriate for a terminal disease,4,0.5963061810549171,0.5416320352812763,0.054674145773640714
+engineered,Trials should be more inclusive and accessible to the ALS population,4,0.667052737260952,0.5196921266701265,0.1473606105908255
+engineered,The ALS community feels unheard and believes guidance fails to reflect lived experience,4,0.5997187667400499,0.505994204874294,0.09372456186575584
+human,MISUNDERSTOOD Subtheme: ALS community feels misunderstood by the FDA,12,0.5425329146643822,0.49974418592400627,0.04278872874037598
+human,PRACTICAL CONSTRAINTS Subtheme: The ALS community has a hard time coming to terms with the idea that FDA systems and practices are subject to practical constraints.,7,0.48701935688094256,0.5070928751878768,-0.020073518306934268
+human,ENTITLEMENT Subtheme: The ALS community feels the FDA should have less power over what affects their life.,8,0.5222028235500875,0.47027943490662033,0.05192338864346718
+human,AGENTIFICATION Subtheme: The ALS community views what “entity” the FDA is differently,8,0.4797399173479909,0.47157651222342456,0.008163405124566314
+human,ANGER Subtheme: Appeal to emotion through anger,9,0.31382497372415974,0.29711900564278176,0.016705968081377975
+human,PLEADING Subtheme: Appeal to emotion through pleading,7,0.4754206785665757,0.46059928319978155,0.014821395366794166
+human,CREDIBILITY Subtheme: Appeal to credibility through personal relation to ALS,6,0.47539036195418366,0.4504379624002966,0.02495239955388706
+human,VOICE/CONTROL The ALS community uses the comments as a place to have a voice and/or feel some sort of control,4,0.48397117259831873,0.4835306044790516,0.00044056811926712625
+human,LOGIC Subtheme: Appeal to logic through reasoning for suggestions,13,0.4989020176151518,0.45133878507335956,0.04756323254179223

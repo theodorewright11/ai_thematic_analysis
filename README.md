@@ -6,46 +6,50 @@ Systematic thematic analysis of user comments using different LLM prompting stra
 
 ```
 ai_thematic_analysis/
-├── README.md
+├── README.md · PRD.md · ARCHITECTURE.md · CLAUDE.md
 ├── prompts/
-│   └── themes/
-│       ├── engineered_v1.md
-│       ├── loweffort_v1.md
-│       └── nodata_v1.md
-├── data/
-│   ├── comments_20.csv
-│   └── comments_160.csv (later)
+│   ├── PROMPTS_LOG.md          # full text + rationale per prompt version
+│   ├── themes/                 # engineered_v2.md, loweffort_v1.md, nodata_v1.md
+│   └── other/
+├── data/                       # comments_20.md ([Dn] corpus) + comments_20.csv
 ├── outputs/
-│   └── themes/
-│       ├── chatgpt_engineered_v1_20_run1.json
-│       ├── chatgpt_loweffort_v1_20_run1.json
-│       ├── chatgpt_nodata_v1_run1.json
-│       ├── claude_engineered_v1_20_run1.json
-│       └── ...
-└── scripts/ (later)
+│   ├── ai/themes/              # raw model theme outputs (.json/.md)
+│   └── ratings/themes/         # human-rated themesets (.themes-ratings.json)
+├── scripts/                    # load · embed · metrics · embed_analysis · report
+└── analysis/
+    ├── run_analysis.ipynb      # runner (edit CONFIG, run top-to-bottom)
+    ├── cache/                  # embeddings cache (gitignored)
+    └── results/<run_name>/     # summary.md · detailed.md · *.csv
 ```
 
 ## Naming Conventions
 
-### Output Files
-Format: `{model}_{promptvariant}_v{version}_{datasize}_run{n}.json`
+### Model theme outputs — `outputs/ai/themes/`
+`{model}_{promptvariant}_v{version}_{datasize}_run{n}.json`
 
-- **model**: `chatgpt`, `claude`, `gemini`
+- **model**: `chatgpt5.5`, `claude`, `gemini`
 - **promptvariant**: `engineered`, `loweffort`, `nodata`
-- **version**: `v1`, `v2` (increments when prompt changes)
+- **version**: `v1`, `v2` (increments when the prompt changes)
 - **datasize**: `20`, `160` (omitted for `nodata`)
-- **run**: `run1`, `run2` (for consistency measurement)
+- **run**: `run1`, `run2` (consistency measurement)
 
-### Prompt Files
-Format: `{variant}_v{version}.md`
+### Rated themesets — `outputs/ratings/themes/`
+The matching output stem plus `.themes-ratings.json` (the rated export of an output).
+The human reference set carries its author in the model slot:
+`human_teddy_v1_20_run1.themes-ratings.json`.
 
-Examples:
-- `engineered_v1.md`
-- `loweffort_v2.md`
-- `nodata_v1.md`
+### Prompt files — `prompts/themes/`
+`{variant}_v{version}.md` (e.g. `engineered_v2.md`). Evolution + rationale live in
+`prompts/PROMPTS_LOG.md`.
 
-### Prompt Development Log
-`prompts/PROMPTS_LOG.md` documents the evolution of each prompt variant with full text, changes highlighted, and rationale. Paper-ready for supplemental materials.
+## Running the Analysis
+
+1. Create/activate the venv, then `pip install -r requirements-dev.txt`.
+2. Copy `.env.example` → `.env` and set `OPENAI_API_KEY` (only the embedding steps need it).
+3. Open `analysis/run_analysis.ipynb`, edit the **CONFIG** cell, and run top-to-bottom.
+   Sections 1–2 (load + ratings) need no key; sections 3–5 (embeddings) do.
+
+See `ARCHITECTURE.md` for the pipeline and `PRD.md` for the research goals.
 
 ## Authors and Affiliations
 
