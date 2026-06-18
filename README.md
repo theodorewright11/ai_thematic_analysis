@@ -34,8 +34,9 @@ ai_thematic_analysis/
 - **run**: `run1`, `run2` (consistency measurement)
 
 ### Rated themesets — `outputs/ratings/themes/`
-The matching output stem plus `.themes-ratings.json` (the rated export of an output).
-The human reference set carries its author in the model slot:
+The matching output stem plus `.themes-ratings.json` (the rated export of an output),
+paired with a `.themes-ratings.md` readable view (the same data rendered with an
+at-a-glance ratings table). The human reference set carries its author in the model slot:
 `human_teddy_v1_20_run1.themes-ratings.json`.
 
 ### Prompt files — `prompts/themes/`
